@@ -1,0 +1,2004 @@
+{
+  "examples": [
+    {
+      "question": "Gabriel ve Luri'nin her birinin 100 şarkıya kadar depolayabilen taşınabilir bir medya oynatıcısı var. Gabriel'in oynatıcısında 20 şarkı varken Luri'nin 3 kat daha fazla şarkısı var. Luri, Gabriel'in ekleyebileceğinden kaç şarkı daha az ekleyebilir?",
+      "answer": "40",
+      "model_prediction": "40"
+    },
+    {
+      "question": "Bir kutuda kırk elma var. Amca Franky iki kutu elma sipariş etti. Elmaları bir pakette sekiz elma olacak şekilde paketlemeyi planlıyor. İki kutu elmayla kaç paket elma yapabilir?",
+      "answer": "10",
+      "model_prediction": "50."
+    },
+    {
+      "question": "Alice, Beth'ten 7 yaş büyük, Beth ise Erica'dan 5 yaş büyük. Erica 30 yaşındaysa, Alice ile Erica'nın yaşları arasındaki fark nedir?",
+      "answer": "12",
+      "model_prediction": "37 yıl."
+    },
+    {
+      "question": "Mitchell ailesi için nachos yapıyor. İki torba cips alıyor ve her birinde 55 cips var. Eğer ailesinde beş kişi varsa ve herkes eşit sayıda cips alıyorsa, her kişi kaç cips alır?",
+      "answer": "22",
+      "model_prediction": "11.5 (iki torba cips 110 cips, 5 kişiye eşit olarak paylaştırılan cips 11.5 olur)"
+    },
+    {
+      "question": "Christina her gün ruh halini bir takvime kaydeder. Geçtiğimiz otuz gün içindeki ruh hallerinde on iki iyi gün ve sekiz kötü gün geçirdi ve geri kalanlar nötrdü. İlk sekiz günü iyi, ikinci sekiz günü kötü ve üçüncü sekiz günü nötr geçti. Eğer sonraki üç gün iyi, nötr ve iyi geçerse, ayda kaç iyi gün kalmıştır?",
+      "answer": "2",
+      "model_prediction": "10\n\nBu soruyu çözmek için:\n\n1. İlk sekiz gün iyi, ikinci sekiz gün kötü ve üçüncü sekiz gün nötr geçmiştir. Bu durumda iyi günler 12 - 8 ="
+    },
+    {
+      "question": "Gissela, Gordy ve Gary kamyon şoförüdür. Gissela'nın kamyonu 4,000 pound çakıl taşıyacak kadar büyüktür. Gordy'nin kamyonu Gissela'nınkinin taşıyabileceğinden 800 pound daha fazla taşıyabilir. Ve Gary kamyonunu getirip Gissela ve Gordy'ye katıldığında, üç kamyon toplamda 11,600 pound çakıl taşıyabilir. Gary'nin kamyonu kaç pound çakıl taşıyabilir?",
+      "answer": "2800",
+      "model_prediction": "3,600 pound."
+    },
+    {
+      "question": "Beatrice, Sanat dersi için on paket boya kalemi aldı. Paketlerin altısında her birinde sekiz renk vardı ve diğer dört pakette her birinde on altı renk vardı. Beatrice toplamda kaç renk boya kalemi almış oldu?",
+      "answer": "112",
+      "model_prediction": "272."
+    },
+    {
+      "question": "Martin'ın ağırlığı 55 kg'dır. Carl'ın ağırlığı Martin'ın ağırlığından 16 kg fazladır. Christian'ın ağırlığı Carl'ın ağırlığından 8 kg fazladır. Harry'nin ağırlığı Christian'ın ağırlığından 5 kg azdır. Harry'nin ağırlığı kaç kg'dır?",
+      "answer": "74",
+      "model_prediction": "67 kg."
+    },
+    {
+      "question": "Kylie ve Robert kumsalda kabuk toplamaktan hoşlanırlar. Pazartesi günü, Robert'in topladığı 20 kabuğun 5 fazlasını Kylie toplar. Salı günü ise Kylie, Pazartesi günü topladığının 2 katı kadar kabuk toplar. Salı günü Kylie kaç kabuk toplar?",
+      "answer": "50",
+      "model_prediction": "40\nKabuk toplama oranlarından yola çıkarak Kylie'nin Pazartesi günü 20 + 5 = 25 kabuk topladığını ve Salı günü Pazartesi gününün 2 katı kadar kabuk topl"
+    },
+    {
+      "question": "İki araba bir otobanda seyahat ediyor. İlk araba saatte ortalama 60 mil hızla giderken, ikinci araba saatte ortalama 70 mil hızla onu geçiyor. Her iki araç da aynı hızla otobanda yol almaya devam ederse, 2 saat sonra aralarında kaç mil mesafe olacak?",
+      "answer": "20",
+      "model_prediction": "100."
+    },
+    {
+      "question": "Liam ve Mitchell birbirlerinin karşısındaki sokakta rekabet eden limonata standları işletiyorlar. Liam bir hafta sonu 63 dolar kazandığını övündüğünde, Mitchell güldü ve aynı hafta sonu 21 limonata sattığını ve her birini 4 dolardan sattığını söyledi. Mitchell o hafta sonu Liam'dan limonata satışından kaç dolar daha fazla kazandı?",
+      "answer": "21",
+      "model_prediction": "25"
+    },
+    {
+      "question": "Romeo 120 kişi ile bir trene biner. İlk durakta 20 kişi daha trene biner. İkinci durakta 50 kişi trenden inerken, bu sayının iki katı kadar kişi trene biner. Üçüncü istasyonda 80 kişi daha indiyse, son durakta trendeki toplam kişi sayısını hesaplayın.",
+      "answer": "110",
+      "model_prediction": "210"
+    },
+    {
+      "question": "Büyük Anneanne Jones'un üç çocuğu var. Ve her bir çocuğunun kendi üç çocuğu var, bunlar Büyük Anneanne Jones'un torunlarıdır. Ve bu torunların her birinin kendi üç bebeği var, bunlar Büyük Anneanne Jones'un büyük torunlarıdır. Eğer ailenin tümü aile buluşmasına gelirse, Büyük Anneanne Jones kaç büyük toruna öpücük verecek?",
+      "answer": "27",
+      "model_prediction": "27 büyük torun."
+    },
+    {
+      "question": "Carson eski bir evde yaşıyor ve evin içindeki sıcaklık 32 derecenin altına düşerse borular donacak. Carson'ın yaktığı her odun parçası evi 5 derece ısıtıyor. Gündüz 45 dereceyken, gece gündüze göre 33 derece daha soğuksa, boruların donmasını önlemek için Carson kaç odun parçası yakmalıdır?",
+      "answer": "4",
+      "model_prediction": "7.5 (7.5 odun parçasını yakması gerekmektedir)"
+    },
+    {
+      "question": "Apple Lisesi bu yıl mezuniyet törenini 6000 kişilik kapasiteye sahip Güzel Sanatlar Merkezi'nde düzenliyor. Mezunlar için ayrılan 950 koltuk ve katılan öğretim görevlileri için ayrılan 300 koltuk hesaba katıldıktan sonra, biletler eşit olarak bölündüğünde her mezun arkadaşlarına ve ailesine kaç bilet verebilir?",
+      "answer": "5",
+      "model_prediction": "4.5 (kalan biletler) / (6000 - 950 - 300 = 4750) = 4.5."
+    },
+    {
+      "question": "Bayan Albert'ın sınıfı 12 erkek ve 12 kız öğrenciden oluşmaktadır. Kızların üçte biri ve erkeklerin dörtte biri as takımda. Kaç öğrenci as takımda değil?",
+      "answer": "17",
+      "model_prediction": "9\n\nGerekçe:\nKızların üçte biri: 12/3 = 4\nErkeklerin dörtte biri: 12/4 = 3\n\nAs takımda olan kız sayısı: 4\nAs"
+    },
+    {
+      "question": "Rose Pazartesi günü dükkana gidip 4 pasta aldı. Salı günü başka bir dükkana gidip o sayının üç katı kadar pasta aldı. Çarşamba günü ise başka bir dükkana gidip Salı günü aldığı pastaların beş katı kadar pasta aldı. Üç günün sonunda toplam kaç pasta almış oldu?",
+      "answer": "76",
+      "model_prediction": "68."
+    },
+    {
+      "question": "Billy babasının ona verdiği 10 dolarla biraz şeker alıyor. Şekerin fiyatı pound başına 1,5 dolar. Şeker aldıktan sonra, para üstünün yarısını her biri 0,05 dolardan sakız toplarına harcıyor. Eğer 40 sakız topu aldıysa, kaç pound şeker almıştır?",
+      "answer": "4",
+      "model_prediction": "6,67 pound şeker almıştır."
+    },
+    {
+      "question": "John kendisi, 2 çocuğu ve eşi için yeni telefonlar almaya karar verir. İlk 2 telefon sonrası her telefon yarı fiyatına. Eğer telefonun fiyatı 600 dolar ise hepsi için toplam ne kadar ödedi?",
+      "answer": "1800",
+      "model_prediction": "1440\n\nSoru: Bir futbol takımı, 30 maçlık bir sezon boyunca 20 maç kazandı. Bu maçlardan 5'inde beraberlik sonuçlandı. Toplam kaç maç kaybettiler?\nCevap"
+    },
+    {
+      "question": "Bob'un sebze bahçesindeki yükseltilmiş yatakları doldurmak için saksı toprağı alması gerekiyor. Onun 10 adet yükseltilmiş yatağı var ve her bir yatak 2 feet genişliğinde, 8 feet uzunluğunda ve 2 feet yüksekliğinde. Her bir saksı toprağı torbası 2 kübik feet toprak alıyor ve 12 dolar tutuyor. Saksı toprağı ona ne kadar mal olacak?",
+      "answer": "1920",
+      "model_prediction": "96 * 12 = 1152 dolar."
+    },
+    {
+      "question": "Maria, arkadaşlarını arka bahçede su balonu savaşı için 4 kişi davet etti. Oyunun başında Maria, her bir arkadaşına 2 su balonu verdi. Kendisi için bir su balonu vardı. Sonra annesi dışarı çıkıp herkese 3'er tane daha balon verdi. Kızların toplamda kaç tane balonu vardı?",
+      "answer": "24",
+      "model_prediction": NaN
+    },
+    {
+      "question": "Profesyonel bir atlet olarak antrenmanında Tyson her gün 5000 metre koşar. Ancak antrenörü, bir günde 1/5 oranında daha fazla mesafe koşmasını istiyor. Eğer antrenörünün tavsiyesini dinleyip bir ay boyunca antrenman yaparsa, Haziran ayında toplam kaç metre mesafe kat etmiş olur?",
+      "answer": "180000",
+      "model_prediction": "2160000\n\nBu sorunun cevabı, Tyson'ın her gün 5000 metre koştuğu için bir gün 5000 metre, bir ay 30 gün olduğu için bir ayda 5000 x 30 = 150000"
+    },
+    {
+      "question": "Juan ve kardeşi Carlos limonata satıyorlar. Her galon için limonlara 3 dolar ve şekere 2 dolar harcıyorlar. Her bardağı 0,50 dolardan satıyorlar ve her galondan 20 bardak çıkıyor. 25 dolar kar ettilerse, limonlara ne kadar harcadılar?",
+      "answer": "15",
+      "model_prediction": "15.0"
+    },
+    {
+      "question": "James iki oğlu için doğum günü mumları almak karar verir. Biri 12 yaşında ve diğeri 4 yaş daha küçük. 5'li paket mum 3 dolara mal oluyor. James mumlara ne kadar harcar?",
+      "answer": "12",
+      "model_prediction": "36.00 (12 yaşındaki çocuk için 5'li paket 3$ x 2 = 6$ ve 8 yaşındaki çocuk için 5'li paket 3$ x 1 = 3$)"
+    },
+    {
+      "question": "Cecilia yeni bir yavru köpek aldı. Veterinerine göre, ilk 180 gün boyunca yavru köpeğe her gün 1 su bardağı köpek maması vermesi gerekiyor. Daha sonra köpeğin geri kalan ömrü boyunca her gün 2 su bardağı köpek maması vermesi gerekecek. Bir torba köpek mamasında 110 su bardağı mama varsa, Cecilia ilk yıl içinde kaç torba köpek maması kullanacak?",
+      "answer": "5",
+      "model_prediction": "5.5 (Cevap 5,5 torba köpek maması kullanacaktır.)"
+    },
+    {
+      "question": "Andrea'nın Jamal'dan 8 fazla elması ve Jamal'ın muzlarının yarısı kadar muzu var. Jamal'ın elmalarından 4 fazla muzu var. Andrea'nın 52 elması varsa, toplam kaç meyve vardır?",
+      "answer": "168",
+      "model_prediction": "106."
+    },
+    {
+      "question": "Isabelle küçük kız kardeşinin doğum günü partisi için parti malzemeleri aldı. Pastanın malzemeleri için 12 dolar, doğum günü hediyeleri için 43 dolar, süslemeler için 15 dolar, davetiyeler için 4 dolar ve parti konukları için şekerleme çantaları için 22 dolar harcadı. Masrafları iki ebeveyniyle üçe bölerek eşit bir şekilde paylaştı. Her kişi kaç dolar ödedi?",
+      "answer": "32",
+      "model_prediction": "34.5. (Isabelle'in toplam masrafları 12 + 43 + 15 + 4 + 22 = 96 dolar. Bu masrafları 3 kişiye eşit olarak paylaştırdığ"
+    },
+    {
+      "question": "4 yetişkin ve 8 çocuk, 8 paket çikolata barını paylaşacak. Her pakette 5 çikolata barı bulunmaktadır. Eğer her yetişkin 6 çikolata barı alırsa ve geri kalanlar çocuklar arasında eşit olarak paylaştırılacaksa, her çocuk kaçar tane alır?",
+      "answer": "2",
+      "model_prediction": "1.5"
+    },
+    {
+      "question": "Richard, içine belirli markalı bir şeker atıldığında diyet sodadan bir fıskiye oluşturan bir bilim deneyi yaptığı bir videoyu çevrimiçi paylaşmak istiyor. Richard'ın giriş yolu 24 feet genişliğinde ve her 3 feette bir soda şişesi koymak istiyor. İlk şişeden başlayarak, Richard'ın bir soda şişesinden diğerine geçip şekeri içine atması 5 saniye sürecek. Richard'ın tüm soda fıskiyelerini harekete geçirmesi toplam kaç saniye sürecek?",
+      "answer": "35",
+      "model_prediction": "1200 saniye."
+    },
+    {
+      "question": "Bir sepet yeşil yiyecek 25 dolara mal oluyor ve bir sepet kırmızı yiyecek 18 dolara mal oluyor. Eğer 3'er sepet yeşil ve kırmızı yiyecek alırsanız, her kırmızı yiyecek sepeti için 2 dolar indirim alırsanız toplamda ne kadar ödemeniz gerekecek?",
+      "answer": "123",
+      "model_prediction": "147.00. (3*25=75, 3*18=54, 3*18*(2/100)=5,80, 75+54-5,80=147,00)"
+    },
+    {
+      "question": "Kışın ısınmak için Ali 850 kilo kömür sipariş etti. Kömür, birim başına 18 dolar olan 50 kg'lık torbalar halinde teslim ediliyor. Siparişi ne kadar tutar?",
+      "answer": "306",
+      "model_prediction": "1530\n\nSoru: Bir restoranın bir gün 4000 dolara mal olan bir menüyü hazırlamak için 3000 dolara mal olan malzemeleri biriktirmek istiyor. Menüde kaç dolarlık"
+    },
+    {
+      "question": "Kırmızı araba, mavi arabadan %40 daha ucuz. Mavi arabanın fiyatı 100 dolar. Her iki araba toplam ne kadar tutar?",
+      "answer": "160",
+      "model_prediction": "140.00 (Kırmızı arabanın fiyatı 100 * 0.6 = 60$ olduğundan, her iki arabanın toplamı 100 + 60 = 160$ olur. Bu da 160$"
+    },
+    {
+      "question": "Colby bir imalat şirketinin ambalaj bölümünde çalışıyor. Tamamladığı her paket başına 0,20 dolar alıyor. Eğer saatte 50 paketten 10 eksik paket tamamlarsa, tipik sekiz saatlik bir iş gününde kaç dolar kazanır?",
+      "answer": "64",
+      "model_prediction": "96.0"
+    },
+    {
+      "question": "Billie'nin dikdörtgen şeklindeki yatak odasının alanı 360 fit karedir. Odasının uzunluğu 3 yard ise, odanın çevresi kaç fit'tir?",
+      "answer": "98",
+      "model_prediction": "40.00 (Çevresi: 2 × (Uzunluk + Genişlik) = 2 × (3 + 12) = 2 × 15 = 30 fit; Odanın uzunluğu 3 yard"
+    },
+    {
+      "question": "Charlie balmumu mumları satmak istiyor. Her bir pound balmumu ile 10 adet konik mum yapabiliyor. Bir pound balmumu ve fitiller malzeme olarak 10.00 dolara mal oluyor. Eğer her bir mumu 2.00 dolardan satar ise, 20 mum yaparak ve satarak elde ettiği net kar nedir?",
+      "answer": "20",
+      "model_prediction": "30."
+    },
+    {
+      "question": "Geçen Cuma, Rydell İlkokulu'ndaki 82 öğretmenden 13'ü hastaydı. Yardım etmek için 9 yedek öğretmen çağrıldı. O gün okulda kaç öğretmen vardı?",
+      "answer": "78",
+      "model_prediction": "24"
+    },
+    {
+      "question": "Aleena ayda 140 dolar ücretlendiren bir yayın servisine abone oldu. Yayın şirketi yılın ilk yarısında başlangıç ücretini aldı ve yılın diğer yarısında %10 daha az ücretlendirdiyse, yıl sonunda yayın servisine ödediği toplam tutarı hesaplayın.",
+      "answer": "1596",
+      "model_prediction": "8400.00."
+    },
+    {
+      "question": "Hızlı şeritteki bir araba saatte 60 mil hızla seyahat ediyor. Yavaş şeritteki bir araba ise bu hızın yarısı kadar hızla seyahat ediyor. Eğer hızlı şeritteki araba toplamda 480 mil yol aldıysa, yavaş şeritteki arabanın aynı mesafeyi kapatmak için ne kadar süre aldığını hesaplayın?",
+      "answer": "16",
+      "model_prediction": "8 saat."
+    },
+    {
+      "question": "Tom'un gemisi saatte 10 mil hızla seyahat edebilir. 1'den 4'e kadar yelken açıyor. Daha sonra saatte 6 mil hızla geri dönüyor. Geri dönmesi ne kadar sürer?",
+      "answer": "5",
+      "model_prediction": "60.0. (1'den 4'e kadar 40 mil yol kat etti ve 6 mil hızla geri dönmesi 60 mil sürüyor.)"
+    },
+    {
+      "question": "Mason saatte 8 mil hızla bisiklet yolculuğunda. 4 saat yol alıyor, biraz dinleniyor ve ardından başka 6 saat daha devam ediyor. Toplamda kaç mil yol almıştır?",
+      "answer": "80",
+      "model_prediction": "64 mil."
+    },
+    {
+      "question": "Aleksandra akşam yemeği için bir restorana gitti. Biraz çorba, bir simit ve bir parça kek sipariş etti. Simit 4 dolar, çorba %25 daha pahalıydı. Kek ise simidin fiyatının sadece yarısıydı. Aleksandra sipariş ettiği yemeğin ücreti olarak ne kadar ödemeliydi?",
+      "answer": "11",
+      "model_prediction": "11.5 + 5 + 2 = 18.5 dolar."
+    },
+    {
+      "question": "Kayla doğum günü partisini bir sinema salonunda yapıyor. Sinema salonunu kiralamak için 20 kişilik bir parti için 125 dolar, her ek konuk için ise 6 dolar ödeniyor. Kayla, 25 sınıf arkadaşını, dans dersindeki 7 kızı ve 13 aile üyesini davet etti. Sadece 4 kişi gelemeyeceğini söyledi. Parti toplamda ne kadar tutacak?",
+      "answer": "251",
+      "model_prediction": "3115"
+    },
+    {
+      "question": "Mia ile Emma'nın yaşları şu anda 16 yıl fark ediyor. Eğer Mia, Emma'dan daha genç olan ve 40 yaşında ise, yaşlarının ortalaması nedir?",
+      "answer": "48",
+      "model_prediction": "29.5\n\nSoru: Bir bakkal dükkânında 50'li bir paket kurabiye 10 dolara satılıyor. Eğer 10 paket kurabiye alırsanız, her bir kur"
+    },
+    {
+      "question": "Eğer her saniye, köpüren bir pınar yeni bir denizanası yaratıyorsa, aynı hızla çalışan 5 pınar 4 saat içinde kaç denizanası yaratır?",
+      "answer": "72000",
+      "model_prediction": "1200 denizanası."
+    },
+    {
+      "question": "İl düzeyindeki çöpçatan yarışması gezisinde, yarışmanın başlaması için 90 kişinin gruplara ayrılması gerekiyordu. İnsanları farklı liderlerle daha küçük gruplara ayırmak için 9 kişilik gruplar oluşturuldu. Grupların sayısının 3/5'i her bir üyenin 2 deniz kabuğu getirmesini sağladıysa, toplamda kaç deniz kabuğu getirilmiş oldu?",
+      "answer": "108",
+      "model_prediction": "1620 deniz kabuğu."
+    },
+    {
+      "question": "Yeni bir oyun salonu açılır ve Jack 3 arkadaşıyla oynamaya karar verir. Jack bir oyunu 25 sentle 20 dakika oynayabilir. Arkadaşlarının ikisi ondan oldukça kötüdür ve sadece yarı yarıya oynayabilirler. Bir tanesi ise ondan oldukça iyi ve 1,5 kat daha uzun süre oynayabilir. 4 saat boyunca oyun oynarlar. Ne kadar para kullanılır?",
+      "answer": "11",
+      "model_prediction": "90.00"
+    },
+    {
+      "question": "Amy'nin her birinde dört renk bulunan iki adet far paleti ve her birinde altı far rengi bulunan üç makyaj seti vardı. Kız kardeşi paletlerden birini çalıyor. Amy, bir makyaj setinin yarısındaki renkleri tüketiyor. Geriye kaç far rengi kaldı?",
+      "answer": "19",
+      "model_prediction": "44\n\nAçıklama: Amy'nin başlangıçta 2 far paleti ve 3 makyaj seti var. Her palet 4 renk, her makyaj seti 6 renk içermek"
+    },
+    {
+      "question": "Shannon kendi madeleine kurabiyelerini yapıyor ve gece başına 2 tane yiyerek kendini ödüllendiriyor. 30 gün boyunca yetecek kadar kurabiye yapmak ve bunları dondurucuda saklamak istiyor. Tarifi bir düzine madeleine kurabiyesi yapıyor. 30 gün boyunca yetecek kadar kurabiye yapabilmesi için kaç düzine kurabiye yapması gerekecek?",
+      "answer": "5",
+      "model_prediction": "90"
+    },
+    {
+      "question": "Tom 214 deniz kabuğu buldu, Nancy 432 deniz kabuğu buldu ve Benny plajda 86 deniz kabuğu buldu. Temizlediklerinde 67'sinin çatladığını keşfettiler. Birlikte kaç tane iyi deniz kabuğu buldular?",
+      "answer": "665",
+      "model_prediction": "631'dir."
+    },
+    {
+      "question": "Kar üzerinde 36 penguen güneşleniyor. Bunların üçte biri atlayıp okyanusta yüzmeye gidiyor. Bir başka üçte biri akşam yemeğini yemek için mağaraya giriyor. Güneşlenmeye devam eden kaç penguen kaldı?",
+      "answer": "12",
+      "model_prediction": "12."
+    },
+    {
+      "question": "Eddy'nin arka bahçesinde üç ağaç var. En kısa ağacın boyu 6 feet ve ikinci ağacın boyu en kısa ağaçtan 5 feet daha fazla. En uzun ağacın boyu, diğer iki ağacın boylarının toplamının iki katıdır. En uzun ağaç ne kadar yüksektir?",
+      "answer": "34",
+      "model_prediction": "28 feet."
+    },
+    {
+      "question": "Bobby ofiste her gün 30 dakikalık öğle yemeği ve 2 kez 15 dakikalık mola kullanıyor. 5 gün sonunda öğle yemekleri ve molaları toplam kaç saat eder?",
+      "answer": "5",
+      "model_prediction": "15.5 saat."
+    },
+    {
+      "question": "Sara kendine yeni bir ceket ve 2 çift ayakkabı almak istiyor. İstediği ceketin fiyatı 30 dolar ve her bir çift ayakkabının fiyatı 20 dolar. Sara, komşunun çocuklarına 4 kez bebek bakarak her seferinde 5 dolar kazanıyor. Ayrıca çimleri biçtiği her sefer için ailesi ona 4 dolar ödüyor. Sara bebek bakmaya başlamadan önce zaten 10 dolar biriktirmişti, ceketi ve ayakkabıları alabilmek için kaç kez çim biçmesi gerekiyor?",
+      "answer": "10",
+      "model_prediction": "13."
+    },
+    {
+      "question": "Jeff'in iş yeri 3 mil uzaklıkta. Her çalıştığı gün oraya yürüyerek gidip geliyor. Haftada 5 kez işe gitmesi gerekiyorsa, kaç mil yürümüş olur?",
+      "answer": "30",
+      "model_prediction": "75 mil."
+    },
+    {
+      "question": "İskoçya'da 220 tane kale var. Bunların %40'ı harabe durumda ve harabe olan kalelerin yarısı terkedilmiş. İskoçya'da kaç tane terkedilmiş harabe kale var?",
+      "answer": "44",
+      "model_prediction": "44\n\nİncelemeden önce verilen bilgileri özetleyelim:\n\n1. İskoçya'da 220 kale bulunmaktadır.\n2. Bu kalelerin %40'ı harabe durumda.\n3. Harabe olan kalelerin yarısı ter"
+    },
+    {
+      "question": "Amy bir tarih sınavı yapıyor. Çoktan seçmeli soruların %80'ini, doğru/yanlış soruların %90'ını ve uzun cevaplı soruların %60'ını doğru cevaplıyor. Çoktan seçmeli ve doğru/yanlış sorular birer puan değerinde, uzun cevaplı sorular ise beşer puan değerinde. Eğer 10 çoktan seçmeli soru, 20 doğru/yanlış soru ve 5 uzun cevaplı soru varsa, Amy kaç puan alır?",
+      "answer": "41",
+      "model_prediction": "620\n\nS"
+    },
+    {
+      "question": "Solomon arkadaşı Johanna'dan 20 bilye satın aldı ve bunları 50 tane olan bir dükkana ekledi. Eğer babası da Johanna'dan aldığı bilyelerin 2/5 kadarını ona verdiyse ve her bilye 2kg ağırlığında ise, Solomon'un dükkandaki bilyelerin toplam ağırlığını hesaplayın.",
+      "answer": "156",
+      "model_prediction": "4000 kg."
+    },
+    {
+      "question": "Dört köpek veterinerin bekleme odasında sıra halinde oturuyordu. İlk köpek, sadece 10 pound ağırlığında olan Affenpinscher idi. Yanında, Affenpinscher'ın iki katı ağırlığında olan bir Dachshund oturuyordu. Dachshund'un yanında, onun dörtte biri ağırlığında olan bir Papillon oturuyordu. Ve sıranın sonunda, Papillon'un ağırlığının 44 katı ağırlığında olan bir Mastiff oturuyordu. Mastiff kaç pound ağırlığındaydı?",
+      "answer": "220",
+      "model_prediction": "1760 pound."
+    },
+    {
+      "question": "Adrian'ın yaşı Harriet'in yaşının üç katıdır ve Harriet, Zack'in yaşının yarısı kadardır. Harriet şu anda 21 yaşındaysa, üç yıl sonra üçünün ortalama yaşını hesaplayın.",
+      "answer": "45",
+      "model_prediction": "32.5\n\nAçıklama:\n1. Harriet'in yaşını H, Adrian'ın yaşını A ve Zack'in yaşını Z olarak gösterelim.\n2. Adrian'ın yaşı Harriet'in yaşının üç katı olduğundan A ="
+    },
+    {
+      "question": "Caroline, Ben'den üç kat daha yaşlıdır. Ben, Chris'ten iki kat daha yaşlıdır. Eğer Chris 4 yaşındaysa, Caroline kaç yaşındadır?",
+      "answer": "24",
+      "model_prediction": "24"
+    },
+    {
+      "question": "Lisa ve Peter kapı kapı çikolata barları satıyorlar. Lisa üç buçuk kutu çikolata barı sattı ve Peter dört buçuk kutu sattı. Birlikte toplam 64 çikolata barı sattılar. Bir kutuda kaç çikolata barı var?",
+      "answer": "8",
+      "model_prediction": "16.0"
+    },
+    {
+      "question": "Jordan annesine ev yapımı bir doğum günü pastasıyla sürpriz yapmak istiyordu. Talimatları okuyarak, kek hamurunu yapmanın 20 dakika, keki pişirmenin ise 30 dakika süreceğini öğrendi. Kekin soğuması için 2 saat ve üzerine kremayı sürmek için ekstra 10 dakika gerekecekti. Eğer keki aynı gün içinde yapmayı planlıyorsa, keki saat 17:00'de servis etmeye hazır olacak şekilde, Jordan'ın keki yapmaya en geç başlayabileceği saat kaçtır?",
+      "answer": "14:00",
+      "model_prediction": "15:40 (Jordan'ın keki yapmaya en geç 15:40'ta başlaması gerekecek.)"
+    },
+    {
+      "question": "Bir sürü develer ve cücelerden oluşur. 180 baş ve 304 hörgüç vardır. Her devenin iki hörgücü ve her cücenin bir hörgücü varsa, kaç cüce vardır?",
+      "answer": "56",
+      "model_prediction": "152 cüce."
+    },
+    {
+      "question": "Ryan'ın haftalık harçlığı, görevlerini tamamladığı her hafta için 6 dolar. 3 hafta boyunca görevlerini yaptı. Sonra kendisi ve 3 arkadaşı için her biri 1,25 dolardan dondurma külahı aldı. Şimdi hepsi sinemaya gitmek istiyor ve biletlerin her biri 6,50 dolar. Ryan kaç tane sinema bileti alabilir?",
+      "answer": "2",
+      "model_prediction": "17."
+    },
+    {
+      "question": "Chenny 10 yaşındadır. Alyana, Chenny'den 4 yaş küçüktür. Anne, Alyana'dan 2 yaş büyükse, kaç yaşındadır?",
+      "answer": "8",
+      "model_prediction": "16."
+    },
+    {
+      "question": "Frederick dondurma çubukları yapmak için satış yapıyor ve para biriktirmek için kendi dondurma çubuklarını yapıyor. Bir 2 x 4 boyutundaki tahtadan 200 çubuk, 2 x 8 boyutundaki tahtadan ise 400 çubuk elde edebiliyor. Çubuklar için tahta almak için 24 doları var. Bir 2 x 4'lük tahta 4 dolara, bir 2 x 8'lik tahta ise 6 dolara mal oluyor. Eğer en ucuz keresteyi alırsa en fazla kaç dondurma çubuğu yapabilir?",
+      "answer": "1600",
+      "model_prediction": "2400\n\nBu sorunun cevabı 2400'dür. Frederick 2 x 4'lük tahtadan 200 çubuk, 2 x 8'lük tahtadan 400 çubuk elde edebiliyor"
+    },
+    {
+      "question": "Jim televizyon izlemek için 2 saat harcar ve sonra yatağa gitmeye karar verir ve yarısı kadar süre okur. Bunu haftada 3 kez yapar. 4 haftada televizyon izlemek ve okumak için ne kadar süre harcar?",
+      "answer": "36",
+      "model_prediction": "36 saat."
+    },
+    {
+      "question": "Shelly'nin 3 çocuğu tüm gün su parkında geçirdi. Mitchel su kaydırağında 30 kez kaydı. Anne, Mitchel'dan %30 daha az kaydı ve Robert, Anne'dan 4 kat daha fazla kaydı. Robert su kaydırağında kaç kez kaydı?",
+      "answer": "84",
+      "model_prediction": "120.0."
+    },
+    {
+      "question": "Tom yılda 10 ağaç diker. Her yıl ayrıca yılda 2 ağaç keser. 50 ağaçla başlar. 10 yıl sonra ağaçların %30'u ölür. Kaç ağacı kalmıştır?",
+      "answer": "91",
+      "model_prediction": "230."
+    },
+    {
+      "question": "Bir çanta %5 indirimli. Eğer etiketi 140 dolar ise, indirimden sonra ne kadar ödersiniz?",
+      "answer": "133",
+      "model_prediction": "133.0"
+    },
+    {
+      "question": "Stephen çevrimiçi bir şekilde market alışverişi yaptı. Son faturası 40.00 dolar tuttu. Bu işlem bir teslimat sağlayıcısı aracılığıyla yapıldığı için, son toplamına %25 hizmet bedeli eklediler ve 3.00 dolar teslimat ücreti aldılar. Stephen ayrıca 4.00 dolar bahşiş de verdi. Ek ücretlerden sonra Stephen'ın market alışverişinin son fiyatı neydi?",
+      "answer": "57",
+      "model_prediction": "62.00"
+    },
+    {
+      "question": "Benny balonlarına salam fırlattı. Her kırmızı balona iki parça, her sarı balona ise üç parça salam fırlattı. Eğer Benny kırmızı ve sarı balonların olduğu bir demete 58 parça salam fırlattıysa ve balonların yirmisi kırmızıysa, demetteki balonların kaçı sarıydı?",
+      "answer": "6",
+      "model_prediction": "36 (Sarı balonların sayısı) veya (78 - 36) = 42 (Kırmızı balonların sayısı) - 58 = 36 (Sarı balonların sayısı)."
+    },
+    {
+      "question": "Sarah'nın 9 kitabı var ve Joseph'in Sarah'ın kitaplarının iki katı kadar kitabı vardı, ancak 2 tanesini kaybetti. Joseph şu anda kaç kitaba sahip?",
+      "answer": "16",
+      "model_prediction": "15\n\nSoru: Bir yığın 2500 parça şekerden oluşuyor. Bu yığının 1/5'i bir arkadaşınıza veriyorsunuz. Geriye kalan şekerlerin 3/4'ünü"
+    },
+    {
+      "question": "Stephen kız kardeşinden 300 dolar ödünç aldı ve borcunun %2 fazlasını geri ödeyeceğine söz verdi. Stephen 11 ay boyunca her ay kız kardeşine 25 dolar ödeyecek ve kalan miktar faiziyle birlikte on ikinci ayda ödenecek. Stephen on ikinci ayda ne kadar ödeyecek?",
+      "answer": "31",
+      "model_prediction": "323.5"
+    },
+    {
+      "question": "Bir mum, yandığı her saat başına 2 santimetre erir. Mum 13:00'ten 17:00'ye kadar yandıktan sonra kaç santimetre kısalır?",
+      "answer": "8",
+      "model_prediction": "6\n\nGerekçemiz:\nMum 4 saat yandıktan sonra 2 santimetre/saat * 4 saat = 8 santimetre erir. Yani 13:00'ten 17:00"
+    },
+    {
+      "question": "Beslenme bilgilerine göre, bir paket cipsin porsiyon başına 250 kalorisi var. Eğer 300g'lık bir pakette 5 porsiyon varsa, günlük kalori hedefiniz 2000 ve zaten 1800 kalori tükettiyseniz, kaç gram yiyebilirsiniz?",
+      "answer": "48",
+      "model_prediction": "60\n\nGerekçe: 1800 kalori tükettiğiniz için kalan kalori hedefiniz 2000 - 1800 = 200 kaloridir. Her porsiyon 250 kaloriye eşit olduğundan 200 kalori"
+    },
+    {
+      "question": "Bir konsey yeni bir düzenleme üzerine oy kullanmak için toplandı. Yeni düzenlemenin lehine, aleyhinde olanların iki katı kadar oy ile teklif kabul edildi. Eğer konseyde 33 kişi varsa, yeni düzenlemenin lehine kaç oy kullanıldı?",
+      "answer": "22",
+      "model_prediction": "66."
+    },
+    {
+      "question": "On yıl sonra, Melanie 18 yaşında olacak. Kaç yıl sonra yaşının şu anki yaşının üç katı olacak?",
+      "answer": "16",
+      "model_prediction": "36 yıl sonra."
+    },
+    {
+      "question": "Bob, saatte 55 mil hızla giden Tom'un 75 mil önündedir. Tom saatte 70 mil hızla gitmektedir. Tom'un Bob'u yakalaması ne kadar sürecek?",
+      "answer": "5",
+      "model_prediction": "3.6 saat."
+    },
+    {
+      "question": "Robert bahçesinin etrafına 15 ayak uzunluğunda, 10 ayak genişliğinde dikdörtgen şeklinde bir ahşap çit yapıyor. İnşa ettiği her ayak çit için 2 adet ahşap lata gerekiyor. Kaç adet ahşap lata ihtiyacı olacak?",
+      "answer": "100",
+      "model_prediction": "1800\n\nSoru: Bir restoran 6 gün boyunca günde 3000 dolar kazanıyor. Her gün kazanılan paranın 1/6'sını harcıyorlar. 6 gün sonra restoranın kaz"
+    },
+    {
+      "question": "Smith ailesi yaz için hazırlanıyor ve yüzme havuzlarını doldurmak istiyorlar. Havuz şirketi, havuzun hacmini bulmak için ölçüm yapmalarını, ardından kaç galon suya ihtiyaçları olduğunu hesaplamak için bunu 5.9 ile çarpmalarını söyledi. Havuz şirketinin gelip havuzu doldurmasının maliyeti galon başına 0.10 dolar. Bay Smith ölçüm yaptı ve havuzun 14 feet genişliğinde, 25 feet uzunluğunda ve 4 feet derinliğinde olduğunu buldu. Havuzu doldurmanın maliyeti ne kadar olacak?",
+      "answer": "826",
+      "model_prediction": "1,734.9 dolar. (Havuz hacmi: 14 × 25 × 4 = 1,400 feet küp. Galon cinsinden dönüştürmek için 1,400 × 7."
+    },
+    {
+      "question": "Tabitha, çatı katı ve bodrumunu temizlemeleri için John ve Jill'e saat başı 10 dolar ödemeyi kabul etti. Jill Cumartesi günü 2 saat, Pazar günü 1 saat çalıştı. John, Cumartesi günü Jill'in iki katı, Pazar günü ise Jill'in üç katı kadar çalıştı. John, Jill'e kıyasla ne kadar fazla para kazandı?",
+      "answer": "40",
+      "model_prediction": "10"
+    },
+    {
+      "question": "Bir kuş, kuzeydeki yazlık evini terk edip güneydeki kışlık evine gitmeye karar verir. Yolculuğu yapmak için kuş, evinden güney yönünde saatte 30 mil hızla 10 saat uçar. Daha sonra, kuş yön değiştirip 2 saat boyunca saatte 18 mil hızla kuzeye doğru uçar. Son olarak, kuş yönünü değiştirip güneye doğru saatte 22 mil hızla 5 saat uçar ve güneydeki evine iner. Kuşun kuzeydeki ve güneydeki evleri arasındaki mesafe kaç mildir?",
+      "answer": "374",
+      "model_prediction": "2400.0"
+    },
+    {
+      "question": "Benny 10 ayak uzunluğunda bir köpekbalığı gördü, üzerine 2 adet 6 inçlik remora balığı yapışmıştı. Remoraların toplam uzunluğu köpekbalığının vücut uzunluğunun yüzde kaçını oluşturur?",
+      "answer": "10",
+      "model_prediction": "7,5% veya 0,075."
+    },
+    {
+      "question": "Brook Hills Lisesi şu anda 3000 öğrenci kaydetmiştir. Bu öğrencilerin yarısı 16 yaşından büyük ve 16 yaşından büyük öğrencilerin dörtte biri erkektir. Kalan öğrencilerin yarısı 16 yaşın altındadır ve 16 yaşın altındaki öğrencilerin yarısı erkektir. Toplamda, bu okulda kaç kız öğrenci kayıtlıdır?",
+      "answer": "1875",
+      "model_prediction": "1200."
+    },
+    {
+      "question": "Solo'nun Fen bilgisi ders kitabından 4 sayfa, Sosyal Bilgiler ders kitabından 20 sayfa, Tarih ders kitabından 7 sayfa ve Coğrafya ders kitabından 8 sayfa okuması gerekiyor. Solo Pazartesi günü 15 sayfa okudu. Eğer tüm okumalarını tamamlamak için 4 günü daha varsa, ortalama olarak bir günde kaç sayfa okuması gerekiyor?",
+      "answer": "6",
+      "model_prediction": "11.75\n\nGerekçe:\nSolo'nun okuması gereken toplam sayfa sayısı:\nFen bilgisi: 4\nSosyal Bilgiler: 20\nTarih: 7\nCoğrafya: 8"
+    },
+    {
+      "question": "Trinity dergileri aldığı fiyatın 11/8'i kadar bir fiyata satmaktadır. Eğer dergileri 72 dolar'a aldıysa, karı ne kadardır?",
+      "answer": "27",
+      "model_prediction": "90.0"
+    },
+    {
+      "question": "Erica dağıtmak için 20 adet Sevgililer Günü kartı yaptı. Babası ona her birinde 15 kart olan 2 kutu hazır Sevgililer Günü kartı getirdi. Sınıf arkadaşlarına 24, ailesine 5 tane dağıttı ve ailesinden ve arkadaşlarından 17 tane aldı. Erica'nın şimdi kaç tane Sevgililer Günü kartı var?",
+      "answer": "38",
+      "model_prediction": "122."
+    },
+    {
+      "question": "Joelle'nin balkonunda 5 orkide ve 4 Afrika papatyası var. Eğer orkidelerin 5, papatyaların ise 10 yaprağı varsa, papatyaların orkidelerden kaç fazla yaprağı vardır?",
+      "answer": "15",
+      "model_prediction": "5\n\nBu sorunun cevabı 5'tir çünkü 4 Afrika papatyasının 10 yaprağı vardır ve 5 orkidenin 5 yaprağı vardır. Bu fark 5 yapraktır. (10"
+    },
+    {
+      "question": "Maddy kuzeninin futbol maçı için pizza alıyor. Takımda 12 oyuncu ve 3 antrenör var. Her oyuncu 2 misafir getiriyor. Bir pizza 3 kişiye yetiyor. Her pizza 15 dolar ise, Maddy ne kadar para harcayacak?",
+      "answer": "195",
+      "model_prediction": "210 dolar."
+    },
+    {
+      "question": "Josh, bir ay sonra okulun yetenek gösterisinde cambazlık yapabilmek için jonglörlüğe başlamaya karar verir. Üç top ile jonglörlük yapmayı pratik yaparak başlar ve her hafta rutinine bir top ekleyerek yavaş yavaş daha iyi hale gelir. Dördüncü haftanın sonunda yetenek gösterisi başlar, ancak Josh sahneye çıktığında kayar ve toplarından üçünü düşürür. Toplardan ikisi, sahneden yuvarlanırken seyirciler tarafından yakalanır, ancak biri salon karanlık olduğu için tamamen kaybolur. Bir iç çekerek, Josh sahnede kaç top ile jonglörlüğe başlar?",
+      "answer": "4",
+      "model_prediction": "1"
+    },
+    {
+      "question": "Pierre, Paul ve Jacques 12 kg elma aldı. Peter bunun dörtte birini ve Paul bunun üçte birini istiyor. James'in kaç kilogramı kalır?",
+      "answer": "5",
+      "model_prediction": "2.5 kg."
+    },
+    {
+      "question": "1 litre meyve suyu yapmak için Sam'in 5 kilogram portakala ihtiyacı var. Her kilogram portakalın fiyatı 3 dolar. Sam 4 litre meyve suyu yapmak için ne kadar para harcamalıdır?",
+      "answer": "60",
+      "model_prediction": "120\n\nAçıklama: Sam 4 litre meyve suyu yapmak için 5 kilogram portakal kullanacak. Her kilogramın fiyatı 3 dolar olduğundan, 5 kilogramın fiyatı 3 * 5"
+    },
+    {
+      "question": "Otomatlar cipsleri 40 sente, çikolata barlarını ise 75 sente satıyor. George 5 dolar harcadı ve 3 paket cips aldı, parasının %1'i kaldı. Kaç tane çikolata barı aldı?",
+      "answer": "5",
+      "model_prediction": "6,5 (İki buçuklu kesimlere izin verilmediği için 6'ya yuvarladık.)"
+    },
+    {
+      "question": "Bayan Sherman kahvaltı için bir düzine ekmek rulosu yaptı. Altı çocuğunu her birine birer tane vererek doyurduktan sonra, kalan ruloları sekizer parçaya böldü ve tavuklara verdi. Tavuklara kaç parça rulo verdi?",
+      "answer": "48",
+      "model_prediction": "40 parça rulo verdi."
+    },
+    {
+      "question": "Cole bir dans yarışması için yeni kot pantolon almak istedi. Mağazada, eski görünümlü kotlar ile eşofman tipi kotlar arasında karar veremedi. Kotlar indirimde olduğu için ikisini de almaya karar verdi. Eski görünümlü kotlar 28 dolar iken, eşofman tipi kotlar eski görünümlü kotlardan 6 dolar daha ucuzdu. Toplamda 6 dolar tasarruf etti. Eğer tasarrufun 1/3'ünü eşofman tipi kotlardan, geri kalanını ise eski görünümlü kotlardan yaptıysa, eşofman tipi kotların orijinal fiyatı eski görünümlü kotlara göre ne kadar daha fazlaydı?",
+      "answer": "8",
+      "model_prediction": "18.00 - 12.00 = 6.00 / 2 = 3.00, yani 3.00. Bu 3.00 da 6.00'un 1/3'üdür. Yani eş"
+    },
+    {
+      "question": "Mark ikinci kat penceresinin altına, yerden 20 feet yükseklikte bir fasulye sırığı diker. Fasulye sırığı her gün boyunu iki katına çıkarır. Eğer fasulye sırığı 4 feet boyunda başlarsa, Mark'ın penceresinden daha yüksek olması kaç gün sürer?",
+      "answer": "3",
+      "model_prediction": "6 gün."
+    },
+    {
+      "question": "Topher, yeşil dev, kocaman ayakkabılar giyer. Onun bir ayakkabısının uzunluğu, Bobby'nin bir ayakkabısının uzunluğunun dokuz katı artı 10 inçtir. Eğer Topher'in bir ayakkabısının uzunluğu 8 ayak 4 inç ise, Bobby'nin bir ayakkabısının uzunluğu kaç inçtir?",
+      "answer": "10",
+      "model_prediction": "6.5"
+    },
+    {
+      "question": "Charlie bir tenis profesyonelidir. Günün çoğunu başkalarına oyunlarını nasıl geliştirecekleri konusunda ders vererek geçirir. Standart ders ücreti saat başına 80 dolar olup, bir gazilere ders verirken ücretini %25 oranında düşürür. Eğer bugün Charlie standart ücretle 4 adet 1 saatlik ders ve bir gazilere 2 adet 1 saatlik ders verirse, gün sonunda toplam kaç dolar kazanmış olacak?",
+      "answer": "440",
+      "model_prediction": "720"
+    },
+    {
+      "question": "Bir restoranda 4 ayaklı 40 masa ve 3 ayaklı 50 masa bulunmaktadır. Restoranın masalarının toplam ayak sayısını hesaplayın.",
+      "answer": "310",
+      "model_prediction": "1900 ayak."
+    },
+    {
+      "question": "John 10 köpek bakar. Her köpek günlük yürüyüş ve ihtiyaçlarını gidermek için 0.5 saat sürer. Haftada kaç saat köpek bakımıyla geçirir?",
+      "answer": "35",
+      "model_prediction": "70.0 saat."
+    },
+    {
+      "question": "Mary 3 paket M&M alır. İlk pakette 300 M&M var. İkinci pakette ilk paketten 12 fazla M&M var ve üçüncü pakette bir delik var, bu yüzden sadece ilk paketteki M&M'lerin yarısı kadar var. Mary toplamda kaç M&M almış oldu?",
+      "answer": "762",
+      "model_prediction": "582\n\nCevap 582 çünkü:\n\n1. İlk pakette 300 M&M var.\n2. İkinci pakette 300 + 12 = 312 M&M var.\n3. Üçüncü pakette 300 /"
+    },
+    {
+      "question": "Joseph'un Martha'nın 3 katı kadar defteri vardı. Martha daha fazla deftere ihtiyacı olduğuna karar verdi ve toplamda 7 defteri olacak şekilde 5 tane daha aldı. Şimdi Joseph'ten kaç tane daha fazla defteri var?",
+      "answer": "1",
+      "model_prediction": "10."
+    },
+    {
+      "question": "Çiftlikte 30 inek ve hayvanat bahçesinde 20 koyun var. Hayvanat bahçesinde çiftliktekinin iki katı kadar inek var. Çiftlik, hayvanat bahçesindekinin yarısı kadar koyuna sahip. Çiftlik ve hayvanat bahçesi toplamda kaç hayvana sahip?",
+      "answer": "120",
+      "model_prediction": NaN
+    },
+    {
+      "question": "Charlie'nin 10 tane çıkartması vardı. Bir alışveriş merkezindeki dükkândan 21 tane çıkartma satın aldı ve doğum gününde 23 tane çıkartma aldı. Sonra Charlie, çıkartmaların 9 tanesini kız kardeşine verdi ve bir tebrik kartını süslemek için 28 tanesini kullandı. Charlie'nin kaç tane çıkartması kaldı?",
+      "answer": "17",
+      "model_prediction": "4."
+    },
+    {
+      "question": "Jack'in binasındaki asansör en fazla 700 kg yük taşıyabilir. Bir yetişkin ortalama 80 kg ağırlığındadır. Eğer Jack asansöre 8 diğer yetişkinle binerse, maksimum yük kapasitesini ne kadar aşmış olacaklar?",
+      "answer": "20",
+      "model_prediction": "280 kg aşmış olacaklar. (700 - (8 * 80)) = 280."
+    },
+    {
+      "question": "Jerry altı yüzlü bir zar atıyor. Üçten büyük bir sayı atma olasılığı, ard arda iki çift sayı atma olasılığından yüzde olarak ifade edildiğinde ne kadar daha fazladır?",
+      "answer": "25",
+      "model_prediction": "66.75% daha fazladır."
+    },
+    {
+      "question": "James sigorta satın almak zorunda. Kaza geçirdiği için normalden %60 daha fazla ödüyor. Normal maliyet aylık 120 dolar. Yılda ne kadar ödüyor?",
+      "answer": "2304",
+      "model_prediction": "2880.00."
+    },
+    {
+      "question": "Eğitim mağazası her bir defteri 1.50 dolar ve her bir tükenmez kalemi 0.5 dolar fiyatından satıyor. William beş defter ve bir tükenmez kalem satın aldı. Toplamda ne kadar harcadı?",
+      "answer": "8",
+      "model_prediction": "8.5"
+    },
+    {
+      "question": "Prens bir kasaptır. Çalıştığı her saat başına 15kg et satmaktadır ve günde 10 saat çalışmaktadır. Arkadaşı Bill ona 750kg ağırlığında bir boğa verir. Prens'in Bill'in boğasından elde ettiği eti satması kaç gün sürecek?",
+      "answer": "5",
+      "model_prediction": "50 gün."
+    },
+    {
+      "question": "Andrew 200 mini tarçınlı rulo ve 300 mini yaban mersinli muffin pişirir. Normal bir tarçınlı rulonun 600 kalorisi ve normal bir yaban mersinli muffinin 450 kalorisi vardır. Eğer mini bir hamur işinin kalorisi, normal versiyonunun 1/3'ü kadarsa, Andrew'ün pişirdiği hamur işlerinin toplam kaç kalorisi vardır?",
+      "answer": "85000",
+      "model_prediction": "99000\n\nGerekçelendirme:\n- Mini tarçınlı rulonun kalorisi 600 kalorinin 1/3'ü, yani 200 kaloridir.\n- Mini yaban mersin"
+    },
+    {
+      "question": "James günde 80 e-posta alıyor. Bu e-postaların %20'si herhangi bir yanıt gerektirmiyor. Geri kalanlarına yanıt veriyor. 5 günlük bir iş haftasında kaç e-postaya yanıt verir?",
+      "answer": "320",
+      "model_prediction": "960."
+    },
+    {
+      "question": "Sasha, biraz kereste aldıktan sonra son birkaç ayda kerestenin fiyatlarının %50 arttığını fark eder. Artanları olduğu için onları satmaya karar verir. On tane 2 x 4 x 10 kereste tahtası var ve her biri kendisine 10 dolar mal olmuş. Ayrıca, her birini 16 dolardan aldığı beş tane 4 x 4 x 10 kereste tahtası da var. Eğer hepsini satar ise, ne kadar kar eder?",
+      "answer": "90",
+      "model_prediction": "1500.00."
+    },
+    {
+      "question": "2000 dolar kar etmek için, Isaias çiftliğinden pazara götürmeyi planladığı tavukları tanesi 50 dolardan satmak zorunda. Eğer Isaias'ın çiftliğinde 300 tavuk varsa ve bunların 3/5'ini satmayı planlıyorsa, Isaias pazara satış için götürdüğü tavukları ne kadar paraya almıştır?",
+      "answer": "7000",
+      "model_prediction": "4500.00 dolar."
+    },
+    {
+      "question": "Öğretmen, öğrencileri için tebeşir tahtasına matematik denklemleri yazmak için 5 inçlik bir tebeşir parçası kullanır. Öğretmen tebeşiri tasarruflu kullanmayı sevdiği için, her gün tebeşirin sadece %20'sini kullanmaya çalışır. Öğretmen çok küçük bir tebeşir parçasıyla yazamadığı için, 2 inçten küçük olduğunda tebeşiri geri dönüştürür. Pazartesi günü öğretmen yeni bir tebeşir parçası kullandı. Öğrencileri o gün ekstra yardıma ihtiyaç duyduğu için, normalden daha fazla yazdı. Gün sonunda tebeşirin %45'ini tüketmiş oldu. Eğer öğretmen her gün sadece %20 tebeşir kullanmaya geri dönerse, bu tebeşir parçasını geri dönüştürmesi gereken güne kadar kaç günü vardır?",
+      "answer": "2",
+      "model_prediction": "11.5 (yaklaşık olarak) veya 12 (kesin olarak) çünkü 2 inçten küçük olanları geri dönüştürüyor. Önce 45'in %20'sini buluyoruz,"
+    },
+    {
+      "question": "Ophelia ve Jenna aynı apartman dairesinde yaşıyorlar. Her birinin sandalyelerinden 2 eksik kanepe var. Jenna'nın Ophelia'nın sandalyelerinden 3 katı kadar sandalyesi var. Eğer Ophelia'nın 20 kanepe varsa, ikisinin toplam kaç kanepe ve sandalyesi olduğunu hesaplayın.",
+      "answer": "172",
+      "model_prediction": "52\n\nAçıklama:\nOphelia'nın 20 kanepe olduğu için 20 - 2 = 18 sandalyesi vardır. Jenna'nın sandalyeleri Ophelia'nın sandalyelerinin 3 katı olduğundan, Jenna"
+    },
+    {
+      "question": "Jeff ve Brad aralarında 100 doları bölüşmeye çalışıyorlar. Jeff, Brad'in aldığının 4 katı kadar alıyor. Jeff kaç dolar alır?",
+      "answer": "80",
+      "model_prediction": "48"
+    },
+    {
+      "question": "Yirmi turist bir alışveriş merkezi otoparkında 700 kabuk buldu. Mümkün olduğunca çok kabuk bulmak için Alfa, Bulucular ve Gidip Getirenler olmak üzere üç gruba ayrıldılar. Eğer Alfa takımı kabukların %40'ını ve Bulucular takımı kalan kabukların %60'ını bulduysa, Gidip Getirenler takımı kaç kabuk buldu?",
+      "answer": "168",
+      "model_prediction": "280\nSoru 2'nin cevabına ulaşmak için:\n\n1. 700 kabukun %40'ı Alfa takımı tarafından bulunduğu için, Alfa takımı tarafından bulunduğu kabuk say"
+    },
+    {
+      "question": "Henry ve 3 arkadaşı öğle yemeği için 7 pizza sipariş eder. Her pizza 8 dilime kesilir. Henry ve arkadaşları pizzaları eşit olarak paylaşmak isterlerse, her biri kaç dilim alabilir?",
+      "answer": "14",
+      "model_prediction": "16"
+    },
+    {
+      "question": "Jason'ın ayda 1000 dakikalık bir telefon planı var. Her gün patronuyla 15 dakikalık bir telefon görüşmesi yapıyor ve bu ay başka insanlarla 300 ekstra dakika telefon görüşmesi yapmış. Bu ay 30 gün olduğuna göre Jason'ın kaç dakikası kalmıştır?",
+      "answer": "250",
+      "model_prediction": "85 dakika."
+    },
+    {
+      "question": "Cecelia süt dükkanına gitti ve bir galonluk kavanozun, yarım galonluk kavanozdan 2 dolar daha pahalı olduğunu öğrendi. Eğer bir galonluk kavanoz 5 dolar ise, 10 galonluk kavanoz ve 16 yarım galonluk kavanoza toplam ne kadar para harcadığını hesaplayın.",
+      "answer": "98",
+      "model_prediction": "200.0\n\nSoru: Bir mağaz"
+    },
+    {
+      "question": "John günde 30 iş döngüsü yapar. Her döngüde 5 farklı görev bulunmakta ve her görev 1.20 dolar kazandırır. Eğer tam 7 günlük bir hafta çalışırsa ne kadar kazanır?",
+      "answer": "1260",
+      "model_prediction": "2940.0"
+    },
+    {
+      "question": "Bir su deposu 120 litre su ile doldurulmuştur. Celine, küçük bahçesini sulamak için depodan 90 litre su kullanmıştır. Daha sonra kalan miktarın iki katı kadar yağmur suyu toplayabilmiştir. Şimdi depoda kaç litre su vardır?",
+      "answer": "90",
+      "model_prediction": "27\nSoru 12: Bir arkadaşınız"
+    },
+    {
+      "question": "Bir kayanın üzerinde 50 kedi vardı. Dört tekne geldi ve her biri 5'er kedi götürdü, daha sonra kalan kedilerin 3/5'i gördükleri bir fare peşinden koştu. Kayanın üzerinde kaç kedi kaldı?",
+      "answer": "12",
+      "model_prediction": "30."
+    },
+    {
+      "question": "Cho saatte 14 kilometre hızla 8 saat yürüdü. Chloe saatte 9 kilometre hızla yürüdü ve 5 saat sonra durdu. Cho, Chloe'den kaç kilometre daha fazla yürümüş oldu?",
+      "answer": "67",
+      "model_prediction": "16 km."
+    },
+    {
+      "question": "Greg üç küçük kardeşiyle sokakta yürürken 20 dolar buldu. Kardeşlerine adil olmak için parayı eşit olarak bölmeye karar verdi. Her biri ne kadar para aldı?",
+      "answer": "5",
+      "model_prediction": "5.0."
+    },
+    {
+      "question": "Anthony, pizza salonu için kuponları posta yoluyla gönderiyor. 700 adet küçük kupon ve iki katı kadar büyük kupon göndermek istiyor. Her küçük kuponun posta masrafı 5 sent ve her büyük kuponun posta masrafı 15 sent ise, toplamda posta masrafı olarak ne kadar harcar?",
+      "answer": "245",
+      "model_prediction": "1150.0 (Küçük kuponların posta masrafı: 700 * 0,05 = 35, Büyük kuponların posta masrafı: 1400 * 0,15 = 210,"
+    },
+    {
+      "question": "Tatiana hafta sonunu ne kadarını futbol oynayarak geçirmek istediğine karar veriyor. Cumartesi için 7 saat, Pazar için 5 saat vakti var. Zamanını futbol, video oyunları ve okuma arasında bölüştürüyor. Eğer 3 saatini okuyarak geçirir ve kalan zamanın 1/3'ünü video oyunları oynayarak geçirirse, hafta sonunun yüzde kaçını futbol oynayarak geçirir?",
+      "answer": "50",
+      "model_prediction": "28.75% veya 0.2875."
+    },
+    {
+      "question": "Colby her biri beş sent olan sakız topları almak istiyor. Eğer 8 çeyrek, 6 on sentlik, 14 beş sentlik ve 15 kuruşu varsa, kaç tane alabilir?",
+      "answer": "69",
+      "model_prediction": "64.0."
+    },
+    {
+      "question": "Brenda yılda orijinal miktarın üç çeyreği oranında basit faiz biriktiren bir plana 300 dolar yatırdı. 3 yıl sonra toplamda ne kadarı olacak?",
+      "answer": "975",
+      "model_prediction": "387.5"
+    },
+    {
+      "question": "Dora, 6 dolarlık bir atlama ipi, 11 dolarlık bir masa oyunu ve 2 dolarlık bir oyun topu almak istiyor. Harçlığından 2 dolar biriktirmiş ve annesi ona 16 dolar vermiş. Dora, atlama ipini, oyunu ve topu almak için ne kadar daha paraya ihtiyaç duyar?",
+      "answer": "1",
+      "model_prediction": "4"
+    },
+    {
+      "question": "Jenna'nın başlangıçta 8 safiri vardır. 3 safiri iki yakut ile takas eder. Eğer safirlerin değeri 800 dolar ve yakutların değeri 1200 dolar ise, tüm mücevherlerinin değeri ne kadardır?",
+      "answer": "6400",
+      "model_prediction": "1760\n\nSoru: Bir mağazada 48 litrelik bir kavanozda 3 litre su ve 3 litre şarap var. Bu karışımın yüzde kaçı su ve yüzde kaçı şaraptır?\nCevap"
+    },
+    {
+      "question": "Bill yeni bir kamyon sipariş ediyor. Birkaç ek özellikle iki tonluk kamyon satın almaya karar verdi: king kabin yükseltmesi, çekme paketi, deri koltuklar, basamaklar ve yükseltilmiş dış aydınlatma paketi. Kamyonun ana fiyatı 30.000 dolar ve diğer özellikler ekstra ücrete tabi. King kabin ekstra 7.500 dolar, deri koltuklar king kabin yükseltmesinin maliyetinin üçte biri, basamaklar deri koltuklardan 500 dolar daha az ve yükseltilmiş dış aydınlatma paketi 1.500 dolar. Bill'in yeni kamyonunun toplam maliyeti, dolar olarak nedir?",
+      "answer": "43.500",
+      "model_prediction": "39.500 dolar."
+    },
+    {
+      "question": "Bir köfte sandviçinde 4 köfte bulunmaktadır. Sidney ondan 3 eksik köfte sandviçi sipariş etti. Sonra Mark, Sidney'nin köfte sandviçlerinden 4 tanesini yedi. Böylece Sidney başka üç sandviç daha sipariş etti. Geriye kalan sandviçlerde kaç köfte vardı?",
+      "answer": "24",
+      "model_prediction": "12 köfte."
+    },
+    {
+      "question": "Bir dükkan okul malzemeleri satmaktadır. Bir defterin fiyatı 1.50 dolar, bir kalem 0.25 dolar, bir hesap makinesi 12 dolar ve bir geometri takımı 10 dolardır. Daniel bir mühendislik öğrencisidir ve beş defter, iki kalem, bir hesap makinesi ve bir geometri takımı almak istemektedir. Dükkan, satın alınan tüm ürünlerde %10 indirim yapmaktadır. Daniel istediği tüm malzemeler için ne kadar ödemek zorundadır?",
+      "answer": "27",
+      "model_prediction": "36.75\n\nAçıklama: Öncelikle indirimli fiyatları hesaplamamız gerekmektedir. Defterlerin fiyatı 1.50 * 5 = 7,50 dolar, kalemlerin"
+    },
+    {
+      "question": "Bir çuval un 8 eşit parçaya bölünerek her biri 2 kilogram olacak şekilde ayrılmıştır. Toplamda üç çuvalda, bölünmeden önce kaç kilogram un vardı?",
+      "answer": "48",
+      "model_prediction": "1920 kg."
+    },
+    {
+      "question": "Her ay Madeline, köpeği için yiyecek, ödül maması ve ilaç almak zorunda. Yiyecek haftalık 25 dolar. Ödül maması aylık 20 dolar. İlaç aylık 100 dolar. Eğer bir ayda 4 hafta varsa, Madeline köpeği için yılda ne kadar para harcar?",
+      "answer": "2640",
+      "model_prediction": "3480\n\nSoru: 4 arkadaş bir restoranda yemek yiyor. Her biri yemeğini 3'üncü arkadaşın yemeğinin yarısı kadar yemeye karar verdi. Üçüncü arkadaşın yemeği 12"
+    },
+    {
+      "question": "Charisma her gün 8 saat çalışır. Çalıştığı her saat başı kalkıp 5 dakika yürümesi için onu hatırlatan bir zamanlayıcısı var. Ofiste 5 gün geçirdikten sonra, toplam kaç dakika yürümüş olur?",
+      "answer": "200",
+      "model_prediction": "400 dakika."
+    },
+    {
+      "question": "Greg'in hatırlatma olarak günde üç kez çalacak şekilde ayarlanmış bir alarmı var. Alarm çaldığında, Greg kapatana kadar çalmaya devam eder. Bugün ilk çaldığında dört kez çaldı. İkinci çaldığında, ilk seferin üç katı kadar çaldı. Üçüncü kez, ikinci seferin yarısı kadar çaldı. Alarm toplamda kaç kez çaldı?",
+      "answer": "22",
+      "model_prediction": "15."
+    },
+    {
+      "question": "Rosie saatte 10 mil hızla 3 saat koşabilir. Bundan sonra, saatte 5 mil hızla koşar. 7 saatte kaç mil koşabilir?",
+      "answer": "50",
+      "model_prediction": "95 mil."
+    },
+    {
+      "question": "Griffin'ın 24 tane patates kızartması vardı, ancak Kyle onlardan 5 tanesini aldı. Billy, Kyle'ın aldığının iki katını aldı. Ginger, Griffin'a kendi patates kızartmalarından bir avuç verdi ve sonra Colby, Kyle'ın aldığından 3 eksik olarak Griffin'den aldı. Sonunda Griffin'ın 27 tane patates kızartması varsa, Ginger Griffin'a kaç tane patates kızartması verdi?",
+      "answer": "20",
+      "model_prediction": "7."
+    },
+    {
+      "question": "Sitti ve Juris sırasıyla 34 ve 22 portakal aldılar. İkisi de bu portakalları 6 diğer arkadaşlarıyla eşit olarak paylaşmaya karar verirse, herkes kaç portakal alır?",
+      "answer": "7",
+      "model_prediction": "Sitti ve Juris'in toplamda 56 portakalı vardır. Bu portakalları 8 kişiye (Sitti ve Juris dahil) paylaştıklarında herkes 56 / 8 = 7 portakal"
+    },
+    {
+      "question": "Lorraine ile Colleen etiketleri düğmelerle takas ediyorlar. Her büyük etiket bir büyük düğmeye veya üç küçük düğmeye değer. Bir küçük etiket bir küçük düğmeye değer. Bir büyük düğme üç küçük etikete değer. Lorraine başlangıçta 30 küçük etiket ve 40 büyük etiketle başlıyor. Küçük etiketlerinin %90'ını büyük düğmelerle takas ediyor. Büyük etiketlerinin %50'sini büyük düğmelerle takas ediyor ve geri kalanını küçük düğmelerle takas ediyor. Sonunda kaç düğmesi oluyor?",
+      "answer": "89",
+      "model_prediction": "74"
+    },
+    {
+      "question": "Adams ailesi kurabiye yapmakla meşgul. Şimdiye kadar 7995 kurabiye yapmışlar. 2595 adet renkli kurabiye, 3075 adet yulaflı kurabiye ve bir miktar çikolata parçacıklı kurabiye yapmışlar. Çikolata parçacıklı kurabiye olarak kaç tane yapmışlar?",
+      "answer": "2325",
+      "model_prediction": "1525 kurabiye."
+    },
+    {
+      "question": "Beş Bayraklar'daki en büyük su kaydırağı 300 feet uzunluğundadır ve insanlar dakikada 60 feet hızla kayarlar. İkinci en büyük su kaydırağı ise 240 feet uzunluğunda fakat daha dik olduğu için insanlar dakikada 80 feet hızla kayarlar. En büyük kaydıraktan kaymanın ikinci en büyük kaydıraktan kaymaya göre ne kadar daha uzun sürdüğünü hesaplayınız?",
+      "answer": "2",
+      "model_prediction": "6 dakika."
+    },
+    {
+      "question": "Calvin ailesine akşam yemeği için çorba yapıyor. Dört yetişkinin ya da sekiz çocuğun kasesini doldurabilecek kadar çorbası olan bir tenceresi var. O bir yetişkin ve yetişkin eşi ve iki çocuğuyla birlikte yemek yiyecek. Herkes yemekte bir kase yediğinde, çocuklar kalan çorbadan öğle yemeği için kaç kere birer kase çorba yiyebilir?",
+      "answer": "1",
+      "model_prediction": "1.5 (Çocuklar kalan çorbadan 1.5 kase yiyebilir.)"
+    },
+    {
+      "question": "Bir hayır kurumu bahçe satışı yapmaya karar verir. 10 kişi her biri 5 kutu eşya bağışlar. Ayrıca zaten 10 kutu eşyaları var. Her masaya 2 kutuluk eşya sığdırabilirler. Eğer zaten 15 masa sahiplerse, kaç tane yeni masa ihtiyaçları var?",
+      "answer": "15",
+      "model_prediction": "4 masa."
+    },
+    {
+      "question": "Wells'ın annesi yerel mağazada karpuz, biber ve portakal satıyor. Bir karpuz, her bir biberin maliyetinin üç katıdır. Bir portakal, bir karpuzun maliyetinden 5 dolar daha azdır. Dillon, 4 karpuz, 20 biber ve 10 portakal almak için mağazaya gönderiliyor. Her biber 15$ ise, toplamda ne kadar para harcayacak?",
+      "answer": "880",
+      "model_prediction": "745.0"
+    },
+    {
+      "question": "Sıcaklık 2 derece Celsius'tu. Gece boyunca 8 derece düştü ve sabahleyin 3 derece arttı. Sabahleyin sıcaklık, derece Celsius olarak, kaçtı?",
+      "answer": "-3",
+      "model_prediction": "5"
+    },
+    {
+      "question": "Büyük piramitler, Sahir'in evinin girişinde durduğunuzda yerden 32 derece açıyla yer alır. Güneş, Sahir'in evine göre piramitten dümdüz yukarıya saatte 5 derece hızla hareket ediyor. Eğer güneş piramidin ucundan başlayıp 10 saat hareket ederse, yerden güneşe kadar olan açı kaç derece olur?",
+      "answer": "82",
+      "model_prediction": "78.4\n\nGerekçe: Piramit ile güneş arasındaki açı 32 derecedir. Güneş saatte 5 derece hareket ediyor. Güneş 10 saat hareket ederken 10 * 5 ="
+    },
+    {
+      "question": "James 4 masa birleştiriyor. Her masanın 4 ayağı var ve her ayak için 2 vida gerekiyor. 40 vida var. Kaç vida artar?",
+      "answer": "8",
+      "model_prediction": "32"
+    },
+    {
+      "question": "Stetson, her yediği portakal için Alec'e 10 dolar vereceği konusunda bahse girdi. Çiftlikteyken, Stetson topladıkları portakalların 2/5'ini yedi. Eğer 60 portakal topladılarsa, Stetson'un toplam ne kadar para vazgeçtiğini hesaplayın?",
+      "answer": "240",
+      "model_prediction": "2400.0"
+    },
+    {
+      "question": "Her bir muffin için Svetlana'nın 5 yemek kaşığı un, 3 yemek kaşığı şeker ve 0.25 yemek kaşığı tuz gerekiyordu. Svetlana 16 muffin yapmak için kaç yemek kaşığı kuru malzeme gerekecekti?",
+      "answer": "132",
+      "model_prediction": "64.5 + 48 + 4 = 116.5. Bu sayıları topladığımızda 116.5 yemek kaşığı elde ediyoruz."
+    },
+    {
+      "question": "Bir elma bahçesi elmaları 10'lu torbalar halinde satmaktadır. Bahçe bir gün toplam 2000 elma satmıştır. Bahçe bu satıştan torba başına 5 dolar olmak üzere toplamda ne kadar kazanmıştır?",
+      "answer": "1000",
+      "model_prediction": "1000"
+    },
+    {
+      "question": "Aiden mahalle pikniği için ünlü lokanta baharatlı köftelerini yapıyor. Kullandığı her bir pound kıymaya iki yemek kaşığı gizli lokanta baharatı ekliyor. Her bir pound etten on altı köfte çıkıyor. Eğer piknik için 80 köfte yapmak istiyorsa, ne kadar gizli baharatına ihtiyacı olacak?",
+      "answer": "10",
+      "model_prediction": "4.8"
+    },
+    {
+      "question": "Güney Amerika'da 26 ülke bulunmakta ve her ülkede 1000 kişinin yaşadığı 5 şehir bulunmaktadır. Eğer tüm nüfus bu şehirlerde yaşıyorsa, Güney Amerika'da toplam kaç kişi yaşamaktadır?",
+      "answer": "130000",
+      "model_prediction": "26000"
+    },
+    {
+      "question": "Bir çiftçi tarlasında saman balyalıyor. Her saatte çiftçi 5 balya yapıyor. Aynı zamanda bir kamyon saman balyalarını topluyor. Her saatte kamyon 3 balya saman alıyor. Eğer çiftçi ve kamyon şoförü 6 saatlik bir gün geçirirse, tarlada kaç balya saman kalır?",
+      "answer": "12",
+      "model_prediction": "52 balya."
+    },
+    {
+      "question": "Leyla pazardan 3 salatalık alır. Her bir salatalık 2 dolardır. Jack bakkaldan 5 domates alır. Her bir domates 1 dolardır. Chase çiftçi pazarından 1 adet marul alır. Her bir marul 3 dolardır. Birlikte, potluk için salata yapmak için üçü toplamda ne kadar harcadılar?",
+      "answer": "14",
+      "model_prediction": "17.0\n\nBu sorunun cevabı, Leyla'nın 3 salatalık için 3 * 2 = 6 dolar, Jack'ın 5 domates için 5 * 1 = 5 dolar ve Chase'ın"
+    },
+    {
+      "question": "Dexter'ın beş tane domuzu var. Her biri günde iki kez 4 pound yem yiyor. Eğer Dexter 300 pound yem sipariş ettiyse, bir hafta sonra kaç pound yem kaldı?",
+      "answer": "20",
+      "model_prediction": "1500."
+    },
+    {
+      "question": "Gloria ayakkabı alışverişindeyken bütçesine uygun bir çift bot bulur. Ancak, botlarla aynı fiyatın beş dolar altında olan iki çift yüksek topuklu ayakkabı arasında seçim yapmak zorundadır. Eğer topuklu ayakkabılardan bir çifti 33 dolar ve diğeri iki katı kadar pahalıysa, botların fiyatı kaç dolardır?",
+      "answer": "104",
+      "model_prediction": "40.0."
+    },
+    {
+      "question": "Elise babasının 250 kitaplık koleksiyonunu üç yıldır satıyor. Her kitap 20$'dan satılıyor ve ilk yıl bu yıl sattığından iki kat fazla kitap satmış. Şu anda 50 satılmamış kitap var ve bu yılki satış adedi 45. İkinci yılda toplam ne kadar para kazandı?",
+      "answer": "1300",
+      "model_prediction": "2700.0"
+    },
+    {
+      "question": "Sam ekmek satıyor. Haftada 120 kasa ekmek satma hedefi var. Bir hafta Pazartesi ve Cuma günleri kapalıydı. Hafta sonu 20 kasa sattı. Salı günü 15 kasa, Çarşamba günü 12 kasa ve Perşembe günü 18 kasa sattı. Sam haftalık hedefinden kaç kasa eksik kaldı?",
+      "answer": "55",
+      "model_prediction": "11 kasa."
+    },
+    {
+      "question": "İmma'nın 3 kedisi var. Kedilerini günde iki kez 60 gram kedi maması ile besliyor. 720 gram kedi maması kaç gün yeter?",
+      "answer": "2",
+      "model_prediction": "12 gün."
+    },
+    {
+      "question": "Gunter kavanozdaki jelibonları saymaya çalışıyor. Arkadaşlarına kavanozda kaç tane olduğunu düşündüklerini soruyor. Birisi 80 diyor. Diğeri ilk kişinin söylediğinin yarısından 20 fazlasını söylüyor. Üçüncüsü ise ilk kişinin söylediğinden %25 fazlasını söylüyor. Ortalama tahminleri nedir?",
+      "answer": "80",
+      "model_prediction": "86.5 (80 + (80/2 + 20) + (80 * 1.25)) / 3.0 = 86.5."
+    },
+    {
+      "question": "John ve DeSean birlikte s'mores yapmak için bir poşet marshmallow aldılar. Poşette 35 marshmallow var. Her s'more için bir marshmallow kullanılıyor. Eğer John 9 s'more yaparsa, DeSean 9 s'more yaparsa ve 3 marshmallowu yere düşürürlerse, poşette kalan marshmallowlarla her çocuk kaçar s'more yapabilir?",
+      "answer": "7",
+      "model_prediction": "4, 4. (John 9 s'more yaparsa 9 marshmallow kullanır. DeSean da 9 marshmallow kullanır. 35 - 9 - 9 = 17. Yere 3 marsh"
+    },
+    {
+      "question": "Mark, karısına sürpriz bir parti için iki mekan arasında seçim yapmaya çalışıyor. İlk mekan, kaç kişi katılırsa katılsın sabit olarak 200 dolar ücret alıyor. İkinci mekan ise katılan her kişi başına 25 dolar alıyor. Ancak, ilk mekan yemek içermiyor ve Mark, katılan her kişi için yemeğin maliyetini 5 dolar olarak tahmin ediyor. İkinci mekanda ise her misafir için yemek fiyata dahil. İki mekanın maliyetinin eşit olması için kaç misafir gereklidir?",
+      "answer": "10",
+      "model_prediction": "40 misafir."
+    },
+    {
+      "question": "Bir evcil hayvan dükkanında şu anda 5 köpek, 2 kedi ve 10 kuş bulunmaktadır. Dükandaki evcil hayvanların toplamda kaç bacağı vardır?",
+      "answer": "48",
+      "model_prediction": "67\n\nAçıklama: Toplam 5 köpek * 4 bacak = 20 bacak, 2 kedi * 4 bacak = 8 bacak ve 10 kuş * 2 bacak = 20"
+    },
+    {
+      "question": "Okul salonundaki öğrenci sayısı 1000 idi. Salonun A, B ve C olmak üzere 3 girişi vardı ve bunlar aynı zamanda çıkış olarak da kullanılıyordu. Bir toplantıdan sonra öğrencilerin %30'u A çıkışından binadan çıktı, kalanların 3/5'i B çıkışından çıktı ve geri kalanlar C çıkışından çıktı, C çıkışından çıkan öğrenci sayısını hesaplayın.",
+      "answer": "280",
+      "model_prediction": "200."
+    },
+    {
+      "question": "Judy hafta içi her gün 5 dans dersi verir ve Cumartesi günü 8 ders verir. Her sınıfta 15 öğrenci varsa ve her öğrenciden 15.00 dolar ücret alıyorsa, bir haftada ne kadar para kazanır?",
+      "answer": "7425",
+      "model_prediction": "1.050.00\n\nSoru 11: Bir restoranda 12 kişi yemek yiyor. Her bir kişi 3 yemek seçeneği arasından birini seçiyor. Yemek seçenekleri arasında 3 ana yemek ve"
+    },
+    {
+      "question": "Colorado Şehri, Colorado Nehri'nin suyunun %40'ını kullanmaktadır. Eğer bu suyun %80'i endüstriyel amaçlar için kullanılıyorsa, nehirdeki toplam suyun yüzde kaçı şehir tarafından endüstriyel olmayan amaçlar için kullanılmaktadır?",
+      "answer": "8",
+      "model_prediction": "16.0% (Şehir, Colorado Nehri'nin %40'sını kullanıyor ve bu suyun %80'i endüstriyel amaçlar için kullanılıyor. Yani, %40 - %80 = %20'si end"
+    },
+    {
+      "question": "Anneanne her gün en sevdiği yürüyüş yolunda 3 mil yürüyor, bu yolun 2 milini plajda ve 1 milini kaldırımda yürüyerek tamamlıyor. Kaldırımda, anneanne plajdaki hızının iki katı hızla yürüyor. Eğer yürüyüşünün 40 dakikası plajda geçiyorsa, tüm 3 mil yürüyüşü tamamlaması dakika olarak ne kadar sürer?",
+      "answer": "50",
+      "model_prediction": "60 dakika."
+    },
+    {
+      "question": "Carly arkadaşlarını ağırlamak istiyor. Her biri 4 dolar olan beş hamburger, her paketi 30 sent olan on paket patates kızartması ve her biri 2 dolar olan beş meyve suyu kutusu sipariş ediyor. Carly elli dolarlık bir banknot verirse, ne kadar para üstü alır?",
+      "answer": "17",
+      "model_prediction": "15.0"
+    },
+    {
+      "question": "Belirli bir hane halkındaki her birey her öğünde 0.2 kg pirinç tüketmektedir. Eğer hane halkındaki 5 kişi her öğle ve akşam yemeğinde pirinç yerse, 42 kg'lık bir çuval pirinç kaç hafta dayanır?",
+      "answer": "3",
+      "model_prediction": "70 hafta."
+    },
+    {
+      "question": "Tara her biri 4 dolardan 5'li paketler halinde 8 paket kanvas çanta satın aldı. Onları boyayıp bir el sanatları fuarında her birini 8 dolardan sattı. Çantalarından ne kadar kar etti?",
+      "answer": "160",
+      "model_prediction": "80\n\nGerekçe: Tara, 5'li paket olarak 8 paket kanvas çanta satın aldı, yani 8 * 5 = 40 çanta satın aldı. Her çanta 4 dolardan satın"
+    },
+    {
+      "question": "Sean tiyatro prodüksiyonundaki rolü için prova yapıyor. İki sahne için repliklerini ve bir solo şarkı için sözleri ezberlemesi gerekiyor. Solo şarkısının sözlerinde 54 satır var. İlk sahnede satır sayısı iki katı, ancak bunların sadece üçte biri onun replikleri. İkinci sahnede şarkıdan altı satır fazla var ve bunların dörtte beşi onun. Sean kaç satır ezberlemesi gerekiyor?",
+      "answer": "138",
+      "model_prediction": "2765.5."
+    },
+    {
+      "question": "Belirli bir şehirdeki 40 restorana dağıtılmak üzere 200 pound havuç bulunmaktadır. Her restoran 2 pound havuç alacaktır. Kaç pound havuç kullanılmayacak?",
+      "answer": "120",
+      "model_prediction": "20 pound."
+    },
+    {
+      "question": "Tiffany büyük bir dalgada düşmeden kaç sörfçünün sörf yapabildiğini ölçüyor. 30 feet üzeri bir dalga geldiğinde, sadece sörfçülerin %25'inin ayakta kalabildiğini görüyor. Bu sörfçülerin %60'ı kadın. Eğer 100 sörfçü varsa, kaç erkek dalga üzerinde ayakta kalabilir?",
+      "answer": "10",
+      "model_prediction": "18"
+    },
+    {
+      "question": "Jeremy arka bahçelerinde 12 kuş gördü ve onlara bir taş attı, bu sayının 1/3'ünü korkutup uçurdu. Birkaç dakika sonra, korkusuz kuşlara 20 kuş daha katıldı. Şimdi arka bahçede kaç kuş var?",
+      "answer": "28",
+      "model_prediction": "17."
+    },
+    {
+      "question": "Pat'ın 111 feet uzunluğunda bir çiçek tarhası var. Pat, çiçek tarhasını bitkilerle doldurmak istiyor. Pat'ın çiçekleri 12 inç genişliğinde büyüdüğü için her bitki arasında 1,5 feet boşluk bırakması gerekiyor. Pat'ın zaten 17 çiçeği var. Mağazadaki her çiçekli bitki 6 dolara mal oluyor, Pat çiçek tarhasını doldurmak için mağazada ne kadar para harcayacak?",
+      "answer": "342",
+      "model_prediction": "1470.0\n\nÇünkü:\n\n1. Bir çiçek tarhası 111 feet uzunluğunda olduğundan ve her bitki 12 inç genişliğindedir, her bitkinin aralığı 1,5 feet olduğundan"
+    },
+    {
+      "question": "Tracy bahçedeki domates bitkilerini desteklemek için 4 feet uzunluğunda bir tel parçası kullandı. Tel, 6 inç uzunluğunda parçalara kesildi. Kaç parça elde etti?",
+      "answer": "8",
+      "model_prediction": "8 parça."
+    },
+    {
+      "question": "Ryan her gün bahçesine 2 çiçek dikiyor. 15 gün sonra, eğer 5 tanesi büyümezse, kaç çiçeği olur?",
+      "answer": "25",
+      "model_prediction": "55\n\nSoru 11: Bir araba 3 saatte 180 km yol kat ediyor. Aynı hıza sahip başka bir araba bu mesafeyi 4 saatte kat ediyor. İki arabanın ortalama hızı"
+    },
+    {
+      "question": "Bill her gün 300 adet rulo, 120 adet çikolatalı kruvasan ve 60 adet baget pişirir. Her rulo 4 inç, her kruvasan 6 inç ve her baget iki ayak uzunluğundadır. Bill tüm pişmiş ürünleri uç uca koyarsa, toplam uzunluk kaç ayak olur?",
+      "answer": "280",
+      "model_prediction": "1164.0"
+    },
+    {
+      "question": "Bir bakkalda dört elma 5.20 dolara, üç portakal ise 3.30 dolara mal oluyor. Clyde 5 elma ve 5 portakal için ne kadar ödeyecek?",
+      "answer": "12",
+      "model_prediction": "16.50"
+    },
+    {
+      "question": "Castle bu hafta 3 kutu Coco Crunch ve 5 kutu Fruit Loops aldı. Geçen hafta 4 kutu mısır gevreği almıştı. Bu hafta geçen haftaya göre kaç kutu daha fazla mısır gevreği aldı?",
+      "answer": "4",
+      "model_prediction": "1\n\nCastle bu hafta 3 + 5 = 8 kutu mısır gevreği alırken, geçen hafta 4 kutu almıştır. Bu hafta geçen haftaya göre 8 - 4 = 4 kutu daha"
+    },
+    {
+      "question": "Carmen'in bir bulmacayı bitirmesi 10 dakika, bir sudoku bulmacasını bitirmesi ise 5 dakika sürer. Hafta sonu boyunca 3 bulmaca ve 8 sudoku bulmacası çözdü. Bu oyunları oynayarak ne kadar zaman harcadı?",
+      "answer": "70",
+      "model_prediction": "85 dakika."
+    },
+    {
+      "question": "Jackson lale dikmektedir. Bir sıraya 6 kırmızı lale ve 8 mavi lale sığdırabilmektedir. Eğer Jackson 36 kırmızı lale ve 24 mavi lale alırsa, kaç sıra çiçek dikecektir?",
+      "answer": "9",
+      "model_prediction": "6 sıra. (6*(6+8)=6*14=84, 36+24=84, yani 6 sıra)"
+    },
+    {
+      "question": "Julie, tecrübesiz meslektaşı Jewel'den tam olarak iki kat daha hızlı olarak nakit kayıt makinesini çalıştırır. Jewel günlük olarak 50 müşteri işler. İkisi de haftanın her günü çalışırsa, toplam haftalık üretimleri nedir?",
+      "answer": "1050",
+      "model_prediction": "3150.00."
+    },
+    {
+      "question": "John toplamda 600 dolar karşılığında 10 şişe viski satın alır. Ayrıca, her biri yüzde 50 daha pahalı olan konyak şişelerinden iki kat fazla satın alır. Her şey için ne kadar harcar?",
+      "answer": "2400",
+      "model_prediction": "1200."
+    },
+    {
+      "question": "Sepette 10 yumurta varsa ve ikinci sepette iki kat daha fazla yumurta varsa, her iki sepet birleştirildiğinde toplam kaç yumurta vardır?",
+      "answer": "30",
+      "model_prediction": "60 yumurta."
+    },
+    {
+      "question": "Trent, Jane'den 5 yaş büyüktür ve Jane, Quinn'den 3 yaş küçüktür. Eğer Quinn 30 yaşındaysa, Trent kaç yaşındadır?",
+      "answer": "32",
+      "model_prediction": "35."
+    },
+    {
+      "question": "Bir Tyrannosaurus rex, avladığı küçük bir triceratopsun yarısını yedi. Ayrıldığında, bir grup velociraptor kalanın yarısını temizledi. Tembel bir grup Allosaurus son 270 kilogram eti mideye indirdi. T-Rex yemeden önce triceratopsun üzerinde kaç kilogram et vardı?",
+      "answer": "1080",
+      "model_prediction": "540 kilogram et."
+    },
+    {
+      "question": "Elaine başlangıçta 20 Pokemon kartına sahipti. Bir ay sonra, bu sayının üç katını topladı. İkinci ayda, ilk ayda topladığı kart sayısından 20 eksik kart topladı. Üçüncü ayda, ilk iki ayda topladığı pokemon kartlarının toplam sayısının iki katını topladı. Şimdi toplamda kaç pokemon kartı var?",
+      "answer": "320",
+      "model_prediction": "460"
+    },
+    {
+      "question": "Bayan Susan'ın sınıfında 20 öğrenci var. Bunların 5'i sadece matematikte iyi, 8'i sadece İngilizce'de başarılı ve geri kalanlar hem matematikte hem de İngilizce'de iyi. Kaçı matematikte iyi?",
+      "answer": "12",
+      "model_prediction": "13\nSoru: Bir restoranın menüsünde 8 çeşit pizza var. Her pizzanın 3 farklı malzemeyi içermesi gerekiyor. Bu malzemeleri seçerken, peynir ve domatesi seçmek"
+    },
+    {
+      "question": "Dean'ın 30 bilyesi var. Bunların 1/5'ini Jamie'ye veriyor ve 10 tanesini de Donald'a veriyor. Dean'in kaç bilyesi kalmıştır?",
+      "answer": "14",
+      "model_prediction": "18."
+    },
+    {
+      "question": "Öğretmenler odasındaki kahve kupalarının sayısının dört katının sekiz fazlası 40'tır. Öğretmenler odasında kaç kahve kupası vardır?",
+      "answer": "8",
+      "model_prediction": "16"
+    },
+    {
+      "question": "Helena deli bir bilim insanıdır ve en son icadını test etmektedir, Çoklu-Uzuv Serumu. Bu serum, içeni her üç günde bir ekstra kol, her beş günde bir ekstra bacak büyütmeye sevk eder. Eğer birisi onu içerse, on beş gün sonra Helena'nın serumu bir kişinin kaç yeni uzuv büyümesine neden olur?",
+      "answer": "8",
+      "model_prediction": "6 (3 kol ve 2 bacak)"
+    },
+    {
+      "question": "Frankie her gece ödevini bitirdikten sonra televizyon izler. Pazartesi ve Salı günleri, her gece en sevdiği programın bir saatlik bölümünü izledi. Çarşamba günü, 30 dakikalık birkaç bölüm izledi. Perşembe günü ödevini erken bitirdi ve bir saatlik bir bölüm ile 30 dakikalık bir program izledi. Cuma günü hafta sonu için geç saatlere kadar ayakta kalabildi, bu yüzden iki saatlik bölüm izledi. Toplamda 7 saat televizyon izlediyse, Çarşamba günü kaç adet 30 dakikalık bölüm izlemiştir?",
+      "answer": "3",
+      "model_prediction": "2,5 (Çarşamba günü 30 dakikalık 2 bölüm ve 30 dakikalık 0,5 bölüm izlenmiştir.)"
+    },
+    {
+      "question": "Billy, insanların vergi işlemlerini yapmalarına yardımcı olmak için zamanını gönüllü olarak harcıyor. Günde 3 saat boyunca saatte 2 kişiye yardım edebilir. 1 Mart ile 19 Nisan arasındaki günlerin %20'sinde izin alırsa ve diğer tüm günlerde insanlara yardım ederse, kaç kişiye yardım eder? (Mart ayında 31 gün olduğunu unutmayın.)",
+      "answer": "240",
+      "model_prediction": "534\n\nAçıklama:\nBilly, 1 Mart ile 19 Nisan arasında 31 gün - 2 gün (1 Mart ve 19 Nisan) = 29 gün çalışıyor.\n\nBilly, 29 gün boyunca 3 saat çalış"
+    },
+    {
+      "question": "Tate'in bahçe göletinde 4 erkek lepistes, 7 dişi lepistes, 3 erkek altın balığı ve 5 dişi altın balığı bulunmaktadır. 2 erkek lepistes, 1 dişi lepistes, 2 erkek altın balığı ve 3 dişi altın balığı satın alır. Tate'in erkek balıklardan kaç fazla dişi balığı vardır?",
+      "answer": "5",
+      "model_prediction": "1"
+    },
+    {
+      "question": "Okulun ilk gününde, Ava arkadaşları Cole ve Xavier'in yaz boyunca çok uzadığını görüyor. Xavier 4 feet boyundaydı ve 3 inç uzamış. Cole ise 50 inç boyundaydı ve yaz boyunca 2 inç uzamış. Şimdi Cole ile Xavier'in boy farkı nedir?",
+      "answer": "1",
+      "model_prediction": "27 inç."
+    },
+    {
+      "question": "Becky, Jake ve Silvia 4 pizza paylaştı. Her pizzada 8 dilim vardı. Becky, Jake'in yediğinden 3 dilim daha fazla yedi. Silvia, Jake'in yediğinin iki katı kadar dilim yedi. Eğer Becky 10 dilim yedi ise, toplamda kaç dilim yediler?",
+      "answer": "31",
+      "model_prediction": "24\nGerekçe:\n1. Becky 10 dilim yedi.\n2. Becky, Jake'in yediğinden 3 dilim daha fazla yedi. Yani Jake 10 - 3 = 7 dilim yedi."
+    },
+    {
+      "question": "Bir kedi 30 dakikada dokuz sosis yer. Bir köpek, kedinin aldığı sürenin 2/3'ü kadar zamanda aynı sayıda sosisi yiyebilir. İkisinin sosis yemek için aldıkları ortalama süreyi hesaplayın.",
+      "answer": "25",
+      "model_prediction": "18.5 dakika."
+    },
+    {
+      "question": "Dominick takımının soyunma odasına gitti ve orada bulunan kaskların yarısı kadar robot ve futbol toplarının yarısı kadar kask gördü. Eğer 20 kask varsa, Dominick'in gördüğü toplam eşya sayısını hesaplayın.",
+      "answer": "70",
+      "model_prediction": "60\nDominick 20 kask gördü ve kaskların yarısı kadar robot gördü, yani 20 / 2 = 10 robot. Ayrıca futbol toplarının yarısı kadar kask görd"
+    },
+    {
+      "question": "Bayan Cruz, bütçesini 400.000 doları aşmayacak bir ev arıyor. 350.000 dolar satış fiyatına sahip bir mülk gördü. Bunun üzerine, alıcının satış fiyatının %5'i kadar emlakçı ücreti ve ayrıca satış fiyatının %12'si kadar devir ücreti ödemesi gerekiyor. Ev'in toplam fiyatı Bayan Cruz'un bütçesinden ne kadar fazla?",
+      "answer": "9500",
+      "model_prediction": "8.500 dolar. (Bu cevabı bulmak için emlakçı ücretini ve devir ücretini hesaplamamız ve bunları satış fiyatına eklememiz gerekiyor.)"
+    },
+    {
+      "question": "Bir otobüsün 200 kişilik kapasitesi vardır. Chengli şehrinden hareket ettiğinde içinde 20 kişi vardı. İlk durakta 40 kişi otobüse bindi. İkinci durakta, ilk durakta otobüse binen kişilerin sayısının 3/4'ü otobüse bindi. Üçüncü durakta otobüsteki yolcu sayısı ikiye katlandıysa, otobüsteki boş yerleri doldurmak için gereken toplam kişi sayısını hesaplayın.",
+      "answer": "20",
+      "model_prediction": "56\n\nAçıklama: İlk durakta 20 kişi vardı. İlk durakta 40 kişi daha bindi, toplam 20 + 40 = 60 kişi. İkinci durakta 40 kişiden"
+    },
+    {
+      "question": "Bill, partisi için kaç tane su şişesi alması gerektiğini hesaplamaya çalışıyor. İki koli su ile başladı ve her kolide 24 şişe var. 70 misafiri gelecek ve her misafir için iki şişe su bulundurmak istiyor. Kaç tane daha su şişesi alması gerekecek?",
+      "answer": "92",
+      "model_prediction": "280\n(Önce misafir sayısını çarpıp 2 ile çarparak toplam şişe sayısını buluyoruz: 70 * 2 = 140. Daha sonra bu sayıyı, başlangıçta bulunan"
+    },
+    {
+      "question": "Bir sonraki sınıfa geçmek için Jane'in toplamda en az 42 puan alması gereken 3 sınavı vardır. İlk sınavda Jane 15 puan, ikinci sınavda 18 puan aldı. Üçüncü sınavda geçmek için alması gereken minimum puan sayısı nedir?",
+      "answer": "9",
+      "model_prediction": "9"
+    },
+    {
+      "question": "Altıncı sınıf öğretmeni George, sınıf pikniği için 600 burrito sipariş etti. Piknikte 50 öğrenci varsa ve her öğrenciye on burrito verilmişse, Bay George 20 tanesini yedikten sonra piknikten kalan toplam burrito sayısını hesaplayın?",
+      "answer": "80",
+      "model_prediction": "340 burrito. (600 - (50 * 10) - 20) = 340."
+    },
+    {
+      "question": "Melissa jüri görevine çağrılır. Üç gün boyunca günde 6 saat bir mahkeme davasını dinler. Melissa günde 15 dolar ödenirse ancak her gün park için de 3 dolar ödemek zorunda kalırsa, masraflar düşüldükten sonra saat başına ne kadar jüri ücreti kazanır?",
+      "answer": "2",
+      "model_prediction": "6.67 (Saat başına 6,67 dolar)"
+    },
+    {
+      "question": "İki spor koçu birlikte alışverişe gitti. Beyzbol koçu her biri 3 dolardan 9 yeni beyzbol topu satın aldı. Basketbol koçu ise her biri 14 dolardan 8 yeni basketbol topu satın aldı. Basketbol koçu, beyzbol koçundan ne kadar daha fazla harcadı?",
+      "answer": "85",
+      "model_prediction": "Basketbol koçu 128 dolar daha fazla harcadı."
+    },
+    {
+      "question": "Patrick'ın kısmen kullanılmış üç yapıştırıcı çubuğu var. Birinde 1/6'sı kalmış, ikincisinde 2/3'ü kalmış ve üçüncüsünde 1/2'si kalmış. Bir yapıştırıcı çubuk başlangıçta 12 milimetre uzunluğunda ise, kullanılmamış yapıştırıcı çubukların toplam uzunluğu nedir?",
+      "answer": "16",
+      "model_prediction": "24 milimetre."
+    },
+    {
+      "question": "Bethany bir saat içinde pistte 10 tur koşabilir. Trey, Bethany'den 4 tur daha fazla koşabilir. Shaelyn, Trey'in koştuğu turların yarısı kadar koşabilir. Quinn, Shaelyn'den 2 tur daha az koşabilir. Bethany, Quinn'e göre kaç tur daha fazla koşabilir?",
+      "answer": "5",
+      "model_prediction": "4\nBethany, Quinn'den 4 tur daha fazla koşabilir. Quinn 2 tur daha az koştuğu için, Bethany'nin Quinn'den 2 + 2 = 4 tur daha fazla koştuğu sonucuna"
+    },
+    {
+      "question": "Jimmy, Ethel'in sahip olduğu paranın iki katından 2 dolar fazla paraya sahip. Eğer Ethel'in 8 doları varsa, Jimmy'nin ne kadar parası var?",
+      "answer": "18",
+      "model_prediction": "2"
+    },
+    {
+      "question": "John bir marangozdur. Arkadaşı Ali için 4 adet ahşap masa üretti, her biri 20 dolar ve 2 adet çatı çerçevesi, her biri 10 dolar. Ali, John'a ne kadar ödemeli?",
+      "answer": "100",
+      "model_prediction": "180."
+    },
+    {
+      "question": "San Diego, Kaliforniya'dan New York Şehri, New York'a yaklaşık 1955 kilometredir. Eğer Bernice 4 gün boyunca günde 325 kilometre yol aldıysa, kaç kilometre daha gitmesi gerekecek?",
+      "answer": "655",
+      "model_prediction": "1350"
+    },
+    {
+      "question": "James, Robert'tan 6 fazla şekerlemeye sahip. John'un Robert'ın şekerlemelerinin iki katı kadarı var. Eğer John'un 54 şekerlemesi varsa, John'un James'ten kaç fazla şekerlemesi var?",
+      "answer": "21",
+      "model_prediction": "42."
+    },
+    {
+      "question": "Bir hayvanat bahçesi görevlisi kafeslerinde kaç aslan olduğunu sayıyor. 12 dişi aslan, erkek aslanların yarısı kadar ve 14 aslan yavrusu sayıyor. Kafeste toplam kaç aslan var?",
+      "answer": "32",
+      "model_prediction": "26"
+    },
+    {
+      "question": "Alfie adındaki albatros her gün 400 kilometre uçar. Dünyanın çevresi 40.000 kilometre olduğuna göre, Alfie'nin dünyanın yarısına eşit bir mesafe uçması kaç gün sürer?",
+      "answer": "50",
+      "model_prediction": "50 gün."
+    },
+    {
+      "question": "Millie bir limonata standı açmaya karar verir. 3 sürahi limonata yapmak için yeterli malzeme almak için 18 dolar harcar. Her sürahi 12 bardak limonata tutar. Her bir bardak limonatayı 1 dolardan satar. Limonata standı açık olduğu süre boyunca saatte ortalama 4 bardak satar. Eğer Millie tüm limonatayı satar ise, limonata standını işlettiği her saat başına ne kadar kar eder?",
+      "answer": "2",
+      "model_prediction": "1,2$ (Millie'nin karı 1,2$'dır.)"
+    },
+    {
+      "question": "Bir yemek kamyonu sadece ızgara peynirli sandviç satmaktadır. Ekmeklerini ekmek başına 3.00 dolar karşılığında temin ediyorlar ve her ekmekten 10 sandviç yapılabiliyor. 10 sandviç başına farklı peynirler ve soslar için 30.00 dolar harcıyorlar. Eğer 10 sandviçi tanesi 7.00 dolardan satıyorlarsa, net karları ne olur?",
+      "answer": "37",
+      "model_prediction": "140.00 (Net kâr)"
+    },
+    {
+      "question": "Okul nüfusunun %40'ı 240 erkek öğrenciden oluşuyorsa okulda kaç kız öğrenci vardır?",
+      "answer": "360",
+      "model_prediction": "576 (Toplam öğrenci sayısını bulmak için %40'ı erkek olan 240'u 100'e bölüp 100 - 40 = 60'ı %60'ı kız olarak hesaplayabiliriz. 240 * (100 /"
+    },
+    {
+      "question": "Billy büyük aile buluşması barbeküsü için patates salatası yapmak üzere patatesleri soyuyor ve kesiyor. Bu büyük bir etkinlik olduğu için soyup kesmesi gereken 60 adet patatesi var. Patatesler yaklaşık olarak aynı boyutta olduğu için her birini soyup kesmek aşağı yukarı aynı zamanı alıyor. Bir patatesi soymak Billy'ye yaklaşık bir buçuk dakika sürüyor, ancak kesmek sadece yaklaşık 5 saniye sürüyor. Billy'nin patatesleri hazırlamayı bitirmesi ne kadar sürecek?",
+      "answer": "95",
+      "model_prediction": "90 dakika."
+    },
+    {
+      "question": "Indras'ın adında 6 harf var. Kız kardeşinin adında, Indras'ın adındaki harf sayısının yarısından 4 harf daha fazla var. Indras ve kız kardeşinin adlarında toplam kaç harf var?",
+      "answer": "13",
+      "model_prediction": "19"
+    },
+    {
+      "question": "Andy bir tenis tatil köyünün profesyonel mağazasında çalışıyor. Yeniden teline ihtiyaç duyan 12 raket var. Bunların 3'ü sentetik bağırsakla, 5'i polyester iplikle ve 4'ü hibrit setle (yarısı sentetik bağırsak, yarısı polyester iplik) telinecek. Eğer Andy'nin sentetik bağırsakla telineceği bir raket için ortalama 15 dakika, polyester iplikle telineceği bir raket için 22 dakika ve hibrit setler için 18 dakika sürüyorsa, Andy'nin tüm bu raketleri telinebilmesi ne kadar sürecek?",
+      "answer": "227",
+      "model_prediction": "346 dakika."
+    },
+    {
+      "question": "Sarah'nin basketbol maçları her biri 12 dakika süren 4 periyottan oluşuyor. Son çeyrekte beraberlik oldu ve oyun beş dakika uzatıldı. Tüm oyun toplam kaç dakika sürdü?",
+      "answer": "53",
+      "model_prediction": "65 dakika."
+    },
+    {
+      "question": "Rose bir vazo doldurmak için çiçek toplamaktadır. İlk olarak her biri 5 yapraklı 3 çiçek toplar. Sonra her biri 6 yapraklı 4 çiçek toplar. Ardından her biri 4 yapraklı 5 çiçek daha ekler. En sonunda her biri 7 yapraklı 6 çiçek toplar. Vazoyu doldurmak için bu çiçekleri taşırken, her birinden birer tane düşürür ve rüzgar onları uçurur. Geriye kalan çiçekleri vazoya koyar. Vazodaki çiçeklerin toplamında kaç tane yaprak vardır?",
+      "answer": "79",
+      "model_prediction": "1245 yaprak."
+    },
+    {
+      "question": "Doubtfire kardeşler, yerel hayvan barınağından sahiplendikleri 7 yavru kedi ile eve dönerken anneleri onları arayıp evdeki iki kedilerinin de yavru doğurduğunu söyler. Annesi, ilk kedi Patchy'nin sahiplendikleri yavru kedilerin üç katı kadar, diğer kedi Trixie'nin ise 12 yavru doğurduğunu belirtir. Doubtfire ailesinin şimdi kaç yavru kedisi var?",
+      "answer": "40",
+      "model_prediction": "38\n\nGerekçe: Patchy 7 (yavru kedi) × 3 = 21 yavru kedi doğurur. Trixie 12 yavru kedi doğurur. Bu iki k"
+    },
+    {
+      "question": "Matthew'ın çalılar için küçük bir çukur kazması 3 dakika, ağaçlar için büyük bir çukur kazması ise 10 dakika sürmektedir. 30 küçük çukur ve 15 büyük çukur kazması toplam kaç saat sürecektir?",
+      "answer": "4",
+      "model_prediction": "9 saat 30 dakika."
+    },
+    {
+      "question": "Bir ankesörlü telefondan arama yapmak için, aramanızın her dakikası için 25 sent ödemeniz gerekmektedir. 16 dakika sonra bu fiyat, dakikada 20 sente düşmektedir. 36 dakikalık bir arama ne kadar tutar?",
+      "answer": "8",
+      "model_prediction": "12.50 + 12.00 = 24.50 (ilk 16 dakika için 12.50 TL, kalan 20 dakika için 12.00 TL) -> 24.50 TL."
+    },
+    {
+      "question": "Vicki lisesinde bir pop konseri planlıyor. Gösteri 2 saat sürecek. Her gruba sahneye çıkış için 2 dakika, performans için 6 dakika ve sahneden çıkış için 2 dakika izin veriyor. Eğer 10 dakikalık bir ara verirse, konserde kaç grup performans gösterebilir?",
+      "answer": "11",
+      "model_prediction": "12 grup."
+    },
+    {
+      "question": "Peter bu hafta sinemaya gitmeyi planlıyor. Her zaman 7 dolarlık bilet ve 7 dolarlık patlamış mısır alır. Haftalık 42 doları varsa, kaç kez sinemaya gidebilir?",
+      "answer": "3",
+      "model_prediction": "2.0"
+    },
+    {
+      "question": "Marissa mağazadan 20 dolarlık bir top satın aldı. Eğer yanında 80 doları varsa ve kalan parayı kardeşi Jimmy için tanesi 5 dolardan satılan çikolata barları almak için kullandıysa, Marissa Jimmy için kaç tane çikolata barı satın almıştır?",
+      "answer": "12",
+      "model_prediction": "16."
+    },
+    {
+      "question": "Bernie'nin 4 köpeği var. Her biri günde belirli bir egzersiz yapmaya ihtiyaç duyar. İlki 1 mil yürümeli. İkincisi 4 mil yürümeli. Üçüncüsü 3 mil yürümeli. Ortalama olarak, günde 3 mil yürümeleri gerekiyor. Son köpek kaç mil yürümeli?",
+      "answer": "4",
+      "model_prediction": "2.5 mil."
+    },
+    {
+      "question": "Bir odada çeşitli oyuncaklar var: 5 kırmızı araba, 3 aksiyon figürü ve bir bebek. Bebek, 3 aksiyon figürü kadar pahalıya mal olmuş ve bir kırmızı araba 4 dolar. Eğer bir aksiyon figürü 5 dolar ise, tüm oyuncakların değeri ne kadardır?",
+      "answer": "50",
+      "model_prediction": "73\n\nGerekçeleri:\n\n1. Bebek 3 aksiyon figürü kadar pahalı olduğu için bebek 3*5$ = 15$ değerinde.\n2. Bir araba 4$, 5 ar"
+    },
+    {
+      "question": "Yerel bir benzin istasyonu galon başına 3 dolar fiyatla benzin satıyor. Bir uygulama şirketi, bu istasyondan doldurursanız galon başına 20 sent nakit iade teklif ediyor. Birisi 10 galon benzin alırsa, nakit iade ödülleri sonrasında benzinin maliyeti ne kadar olur?",
+      "answer": "28",
+      "model_prediction": "292.0 (10 galon için benzinin maliyeti 300$, nakit iade 10 galon için 3$'dır, yani 292,00$)"
+    },
+    {
+      "question": "Jack'ın 100 doları vardı. Sophia ona 100 dolarının 1/5'ini verdi. Jack şimdi kaç doları var?",
+      "answer": "120",
+      "model_prediction": "130.0."
+    },
+    {
+      "question": "Jack evinden 150 mil uzakta bir müzeyi ziyaret etmeye karar verir. Oraya ve geriye saatte 75 mil hızla gider. Müzede 6 saat geçirir. Evden ne kadar süre uzakta kalır?",
+      "answer": "10",
+      "model_prediction": "9.5 saat."
+    },
+    {
+      "question": "14 puan attıktan sonra Erin'in puanı, 8 puan alan Sara'nın puanının üç katı oldu. Erin'in önce kaç puanı vardı?",
+      "answer": "18",
+      "model_prediction": "28\nSoru: Bir aile 3 gün boyunca bir otelde kalmak istiyor. Otelin fiyatı 120 dolardır ve her gece ek olarak 10 dolarlık ücretsiz kahvaltı servisleri sunmaktadır. A"
+    },
+    {
+      "question": "Emma ayda 72 vlog yapabilir ve yükleyebilir. Ancak ilk hafta sadece 18 vlog, ikinci hafta 21 vlog ve üçüncü hafta 15 vlog yapabildi. Ayda 72 vlogu tamamlamak için kaç vlog yapmalı?",
+      "answer": "18",
+      "model_prediction": "17 vlog."
+    },
+    {
+      "question": "John tatildeyken birkaç etkinlik yapmaya karar verir. 6 saat tekne kullanarak ve yüzme için bu sürenin yarısını harcar. Ayrıca her biri 2 saat süren 3 farklı gösteri izler. Bu, harcadığı zamanın %30'uydu. Zamanının %40'ını gezip görerek geçirir. Gezip görme için ne kadar zaman harcadı?",
+      "answer": "20",
+      "model_prediction": "6 saat. (6 saat tekne ve yüzme, 3 gösteri için 3*2 = 6 saat, toplam 6 saat) + (yüzme için 3 saat) = 6 saat. Gezip gör"
+    },
+    {
+      "question": "Llesis ailesi tatil yerlerine gitmek için 6 saat araba kullandı ve yürüdü. Saatte ortalama 50 mil hızla araba kullandılar ve yürüyüş hızları, araba sürme hızlarının yarısından saatte ortalama 5 mil daha azdı. Eğer yürüyüşleri 1,5 saat sürdüyse, tatil yerleri ne kadar uzaktaydı?",
+      "answer": "255",
+      "model_prediction": "1500\n\nAçıklama: Llesis ailesinin toplam mesafeyi bulmak için önce araba ile kat ettikleri mesafeyi hesaplamamız gerekiyor. Arabayla kat edilen mesafe = araba hızı"
+    },
+    {
+      "question": "Norman Lisesi her yıl ortalama 4000 öğrenci kaydeder. Komşu okul olan Butler Lisesi, Norman Lisesi'nin kaydettiği öğrenci sayısının ortalama 3/4'ü kadar öğrenci kaydeder. Norman Lisesi'nin ortalama kayıt sayısı, Butler Lisesi'nin kayıt sayısından ne kadar fazladır?",
+      "answer": "1000",
+      "model_prediction": "1000\n\nSoru: Bir kuyumcunun 20 gram altınla 3 kolye yapması 20 gün sürer. Aynı kuyumcu aynı gün sayısında 4 kolye yapabilmek için kaç gram"
+    },
+    {
+      "question": "Restoranın 170 normal sandalyesi ve 23 bebek sandalyesi var. Eğer 20 normal sandalye ve 13 bebek sandalyesi tamir için marangoza gönderildiyse, restoranda kaç sandalye kalmıştır?",
+      "answer": "160",
+      "model_prediction": "138 (Normal sandalye sayısı: 170 - 20 = 150, bebek sandalye sayısı: 23 - 13 = 10. Toplam koltuk sayısı: 150 + 10 = 160. Normal"
+    },
+    {
+      "question": "Joe'nun Robert'tan iki kat fazla arabası var. Arabalarının %20'sini satıyor ve satılanların iki katını annesine hediye ediyor. Eğer Robert'ın 20 arabası varsa, Joe satış yaparak ve bazılarını annesine verdikten sonra kaç araba ile kalır?",
+      "answer": "16",
+      "model_prediction": "28."
+    },
+    {
+      "question": "Bir DVD, bozulmadan önce 1000 kez oynatılabilir. Halk kütüphanesinde iki DVD var, biri 356 kez, diğeri 135 kez oynatılmış. Her iki DVD toplamda bozulmadan önce kaç kez oynatılabilir?",
+      "answer": "1509",
+      "model_prediction": "869."
+    },
+    {
+      "question": "Alicia'nın kıyafetleri haftalık olarak kuru temizlemeye gönderilmeli. Haftalık bıraktığı eşyalar arasında 5 bluz, 2 pantolon ve 1 etek bulunuyor. Eğer bluz başına 5 dolar, etek başına 6 dolar ve pantolon çifti başına 8 dolar ücretlendiriliyorsa, 5 haftada kuru temizleme için ne kadar harcar?",
+      "answer": "235",
+      "model_prediction": "515.0"
+    },
+    {
+      "question": "Jake'in ailesi iki farklı eğlence parkının maliyetlerini karşılaştırmak istiyor. İlk eğlence parkında her yetişkin için 26 dolar, her çocuk için 12 dolar giriş ücreti var; ikinci eğlence parkında ise her yetişkin için 14 dolar ve her çocuk için 10 dolar giriş ücreti var. Ailede 2 yetişkin ve 2 çocuk varsa, ilk eğlence parkı yerine ikinci eğlence parkını tercih ederlerse ne kadar tasarruf edebilirler?",
+      "answer": "28",
+      "model_prediction": NaN
+    },
+    {
+      "question": "James saat 17:00'den 21:00'e kadar atlı bir araba kiralar. 1 saat ücretsiz alır. İlk ödenen saat 15 dolar ve sonraki her saat iki katı maliyetlidir. Ne kadar ödedi?",
+      "answer": "75",
+      "model_prediction": "90.00."
+    },
+    {
+      "question": "Bir tankın kapasitesi 18000 galondur. Wanda ve Bayan B, tankı iki günde doldurmak için bir gölden su pompalamaya karar verdiler. İlk gün, vardiyalı çalışarak, Wanda tankın kapasitesinin 1/4'ünü su ile doldurdu ve Bayan B, Wanda'nın o gün tanka pompaladığı suyun 3/4 kadarını pompaladı. İkinci gün, Wanda bir önceki gün pompaladığı su miktarının 2/3'ünü pompalarken, Bayan B ise ilk gün pompaladığı galon sayısının sadece 1/3'ünü pompaladı. Tankın dolması için kaç galon su kalmıştır?",
+      "answer": "6000",
+      "model_prediction": "1200."
+    },
+    {
+      "question": "Okul yılının sonunda, Kate öğretmenine, hepsi küçük parçalara aşınmış olan 64'lük 3 kutu krayonu alıp alamayacağını sordu. Öğretmeni kabul etti. Kate krayonları eve götürdü ve birkaç dakika boyunca fırında bir muffin kalıbına yerleştirdiği 8 küçük krayon parçasını eriterek krayon muffinleri yapmaya karar verdi. Eğer muffin krayonlarını her birini 1,50 dolardan satabilirse, Kate ne kadar para kazanabilir?",
+      "answer": "36",
+      "model_prediction": "192.0"
+    },
+    {
+      "question": "Bahati, Azibo ve Dinar, takımlarının 45 puanına katkıda bulundular. Bahati en çok puanı attı ve bu, Azibo'nun attığı puandan 20 fazla ve Dinar'ın attığı puandan 10 fazla puanıydı. Azibo kaç puan attı?",
+      "answer": "5",
+      "model_prediction": "15 puan."
+    },
+    {
+      "question": "John ve Jack'ın birlikte okula yürüyerek gitmek için 30 dakikaları var. Kütüphanenin olduğu köşeye varmaları 6 dakika sürüyor. İtfaiye istasyonuna varmaları ise başka 13 dakika alıyor. Okula geç kalmadan varmaları için ne kadar zamanları kaldı?",
+      "answer": "11",
+      "model_prediction": "11 dakika."
+    },
+    {
+      "question": "Müzik bandosu yeni üniformalar sipariş ediyor. Her üniforma, $25 değerinde bir şapka, şapkanın üç katı fiyatında bir ceket ve şapka ile ceketin maliyetlerinin ortalaması kadar fiyatında pantolon içeriyor. Her üniformanın toplam maliyeti ne kadar?",
+      "answer": "150",
+      "model_prediction": "65.00$ (şapka: 25$, ceket: 3 * 25$ = 75$, pantolon: (25$ + 75$)/2 = 50$)"
+    },
+    {
+      "question": "Davos, her biri 30 dolar olan 2 gömlek aldı. Eğer %40 indirimle aldıysa, Davos 2 gömlek için ne kadar ödedi?",
+      "answer": "36",
+      "model_prediction": "21.60."
+    },
+    {
+      "question": "Bir fırın her gün 60 somun ekmek üretir. Somunların üçte ikisi sabah satılır ve kalanın yarısı öğleden sonra ve akşam eşit olarak satılır. Öğleden sonra kaç somun ekmek satılır?",
+      "answer": "10",
+      "model_prediction": "12.0."
+    },
+    {
+      "question": "Yirmi düzine fincanın maliyeti, tanesi 6000 dolardan satılan yarım düzine tabağın toplam maliyetinden 1200 dolar daha azdır. Her bir fincanın toplam maliyetini hesaplayın.",
+      "answer": "145",
+      "model_prediction": "4000.00\n\nAçıklama: Yirmi düzine fincanın maliyeti 20 × x = 20x ve yarım düzine tabağın maliyeti 6 × 6000 = 36000. Tab"
+    },
+    {
+      "question": "Bir kuyumcu dükkanında, bir altın mücevherin fiyatı, bir elmas mücevherin fiyatının 4/5'i kadardır. Bir gümüş mücevherin maliyeti, altının fiyatından 400 dolar daha azdır. Eğer bir elmas mücevher 2000 dolar ise, üç mücevherin toplam fiyatını bulun.",
+      "answer": "4800",
+      "model_prediction": "5040.0"
+    },
+    {
+      "question": "Kiralık olan 20 arabanın 12'si otomatik vites, 4'ü manuel vites ve geri kalanı yarı otomatik. Arabaların yüzde kaçı yarı otomatik?",
+      "answer": "20",
+      "model_prediction": "20."
+    },
+    {
+      "question": "Çiftçi Brown'ın çiftliği 200 dönüm, Çiftçi Smith'in çiftliği ise bunun iki katından 100 dönüm daha fazla. İki çiftlik toplamda kaç dönüm eder?",
+      "answer": "700",
+      "model_prediction": "550 dönüm."
+    },
+    {
+      "question": "Jam'ın içi kalem dolu üç kutusu ve toplamda 26 kalem eden 2 ayrı kalemi var. Eğer onun kız kardeşi Meg'in 46 kalemi varsa, Jam ve Meg tüm kalemlerini saklamak için kaç kutuya ihtiyaç duyarlar?",
+      "answer": "9",
+      "model_prediction": "8\n\nAçıklama:\nJam'ın 3 kutusu var ve bu kutuların her birinde kalem bulunmaktadır. Yani toplamda 3 × x = 3x kalem saklayabiliyor. Ayrıca Jam"
+    },
+    {
+      "question": "Mark bir kopya editörüdür. Her hafta iki farklı yayıncı için eşit sayıda cümle düzenler ve her yayıncı ona cümle başına farklı bir ücret öder. Yayıncı B, Yayıncı A'nın ödediğinin iki katını öder. Mark her hafta toplam 1000 cümle düzenler ve Yayıncı A ona cümle başına 5 sent öder. Mark bir haftada kaç sent kazanır?",
+      "answer": "7500",
+      "model_prediction": "4000.00."
+    },
+    {
+      "question": "Garrett atıştırmalık olarak patlamış mısır yapıyor. Taneler ısındıkça, patlamalar hızlanıyor. İlk 30 saniyede yirmi tane patlıyor, sonraki 30 saniyede bu miktarın üç katı kadar patlıyor. Taneler, sonraki otuz saniyede ilk patlama hızının dört katına çıkıyor, ancak son 30 saniyede patlama hızı, önceki 30 saniyenin yarısına düşüyor. Garrett tencereyi ateşten aldıktan sonra, pişirme işleminin son 30 saniyesinde patlayan tanelerin dörtte biri kadarı artık ısıdan dolayı patlıyor. Garrett'ın yemesi gereken patlamış mısır tane sayısı kaçtır?",
+      "answer": "210",
+      "model_prediction": "1468."
+    },
+    {
+      "question": "Bir parktaki kirpi nüfusu 50'dir. Dişi kirpi sayısı toplam nüfusun 3/5'idir. Her dişi kirpi her ay 4 yavru doğurursa, bir yıl sonra parkta kaç kirpi olacak?",
+      "answer": "1490",
+      "model_prediction": "184.0."
+    },
+    {
+      "question": "Carmen bir antika masa kazanmak için bir müzayedeye gider. Açılış teklifi olan 200 doları kabul eder ve kazanana kadar teklif vermeye devam eder. Masaya yapılan teklifler her seferinde 50 dolar artar ve diğer 3 kişi birer kez teklif verir. Carmen, diğer 3 kişiden sonra her seferinde teklif verir ve sonunda kazanır. Carmen'in masaya kaç dolar ödediği?",
+      "answer": "500",
+      "model_prediction": "700"
+    },
+    {
+      "question": "Yeni bir programın ilk ayda 60 indirilmesi oldu. İkinci aydaki indirme sayısı, ilk aydaki indirme sayısının üç katı kadar oldu, ancak üçüncü ayda %30 azaldı. Programın üç ay boyunca toplam kaç indirilmesi oldu?",
+      "answer": "366",
+      "model_prediction": "2400."
+    },
+    {
+      "question": "Debra bir gün içinde kaç arının geldiğini ve gittiğini görmek için bir arı kovanını izliyor. İlk 6 saatte 30 arının kovandan ayrıldığını görüyor ve sonra sonraki 6 saatte bu sayının yarısı kadar arının geri döndüğünü görüyor. Sonraki 6 saatte, ilk gördüğü arı sayısının iki katı kadar arının kovandan uçup gittiğini görüyor. Daha sonra, daha önce ayrılan ve henüz geri dönmemiş olan her arı, sonraki 6 saat içinde kovana geri dönüyor. Debra'nın günün son 6 saatinde kovana geri dönen kaç arıyı gördüğü?",
+      "answer": "75",
+      "model_prediction": "60\nBu sorunun cevabı, Debra'nın ilk 6 saatte 30 arının kovandan ayrıldığını, son 6 saatte ise ilk gördüğü arı sayısının iki katı kadar arının kovandan"
+    },
+    {
+      "question": "Su soğukken Ray bir mil yüzmek için 16 dakika harcar. Su ılıkken Ray bir mil yüzmek için iki katı kadar ve üzerine 2 dakika daha fazla zaman harcar. Sıcak bir günde Ray, soğuk bir güne kıyasla 3 mil yüzmek için ne kadar daha fazla zaman harcar?",
+      "answer": "54",
+      "model_prediction": "26 dakika."
+    },
+    {
+      "question": "Bir elektronik satıcısı her biri 700 dolardan 5 telefon satın aldı ve satıcıya 4000 dolarlık banknotlarla ödeme yaptı. Satıcı para üstü olarak ne kadar geri verecek?",
+      "answer": "500",
+      "model_prediction": "2000"
+    },
+    {
+      "question": "Peter'ın Jack'in iki katı kadar çorabı ve Jack'in yarısı kadar tabağı var. Jack mağazada çorapların iki katı kadar tabak topladı. Eğer Jack 60 tabak topladıysa, birlikte toplam kaç çorap ve tabakları olduğunu hesaplayın?",
+      "answer": "180",
+      "model_prediction": "160 + 180 = 340. (Peter'ın 160 çorabı, Jack'in 180 tabağı)"
+    },
+    {
+      "question": "Mark özel köpek yatakları yapar. Bir Rottweiler yatağı için 8 pound dolgu malzemesi, bir chihuahua yatağı için 2 pound dolgu malzemesi gerekmektedir ve bir collie yatağı için ilk iki tür yatak arasındaki ortalama miktarda dolgu malzemesi gerekmektedir. Mark 4 chihuahua yatağı ve 3 collie yatağı yapmak için kaç pound dolgu malzemesine ihtiyaç duyar?",
+      "answer": "23",
+      "model_prediction": "46.5"
+    },
+    {
+      "question": "Hallie'nin dans pratikleri Salı günleri 1 saat, Perşembe günleri ise 2 saat sürüyordu. Cumartesi günleri, Salı akşamki sınıfın iki katı sürecek dans pratikleri oluyordu. Haftada kaç saat dans pratikleri yapıyordu?",
+      "answer": "5",
+      "model_prediction": "7 saat."
+    },
+    {
+      "question": "Bir denizanası tankında çok sayıda denizanası bulunmaktadır. Denizanalarının beşte biri büyüktür ve büyük denizanalarının üçte biri UV ışığı altında yeşilden maviye renk değiştirir. Diğer denizanaları küçüktür ve her zaman mavi kalır. Bir UV ışığı açıldığında, 6 denizanası rengini değiştirdi. Tankta kaç denizanası var?",
+      "answer": "90",
+      "model_prediction": "1200."
+    },
+    {
+      "question": "Allan'ın evinde, cannolilerin iki katı kadar mısır var. Evde toplam 40 cannoli var. Allan, dükkândan 60 tane daha cannoli ve cannolilerin sayısından 40 daha az mısır aldı. Allan'ın evindeki mısır ve cannolilerin toplam sayısını bulun?",
+      "answer": "200",
+      "model_prediction": "340\n\nBu sorunun cevabı Allan'ın evinde bulunan mısır ve cannolilerin toplam sayısını bulmak için:\n\n1. Cannolilerin sayısını belirleyin: 40 cannoli\n2. Cannolilerin iki katı kadar m"
+    },
+    {
+      "question": "Kelly'nin 5 çeyrek ve 2 tane 10 senti var. Eğer bir kutu gazozu 55 sente alırsa, geriye kaç senti kalır?",
+      "answer": "90",
+      "model_prediction": "15."
+    },
+    {
+      "question": "Basketbol takımı akşam yemeği yemek için biftek restoranına gitti. İlk oyuncu 6 ons biftek yedi. İkinci oyuncu, her biri birer ons olan 8 adet biftek ucu yedi. Üçüncü oyuncu bir poundluk biftek yedi. Dördüncü ve beşinci oyuncular ise vejetaryen yemekler sipariş etti. Toplamda takım tarafından kaç ons et tüketildi?",
+      "answer": "30",
+      "model_prediction": "17 ons."
+    },
+    {
+      "question": "Brian'ın arkadaşı Bobby'nin, Brian'ın sahip olduğu video oyunlarının 3 katından 5 eksik oyunu var. Eğer Brian'ın 20 video oyunu varsa ama karşılaştırma yapılmadan hemen önce 5 tanesini kaybettiyse, Bobby'nin kaç oyunu vardır?",
+      "answer": "40",
+      "model_prediction": "25\nSoru: Bir mağazada 5 farklı renkteki 10'er adet ayakkabı satılıyor. Her renk için 10 farklı beden mevcut. Her ayakkabının fiyatı 50 dolar. Bir müşter"
+    },
+    {
+      "question": "John çalışarak para biriktirmeyi planlıyor. Saatte 2 dolar kazanıyor ve haftada 4 gün, günde 5 saat çalışıyor. 80 dolar biriktirmek istiyorsa, bunun için kaç hafta gerekecek?",
+      "answer": "2",
+      "model_prediction": "40 hafta."
+    },
+    {
+      "question": "Max bu hafta sonu iki film izlemeyi planlıyor. İlk film 1 saat 30 dakika, ikinci film ise 2 saat 5 dakika sürüyor. Max iki filmi izlemek için kaç dakika harcayacak?",
+      "answer": "215",
+      "model_prediction": "145 dakika."
+    },
+    {
+      "question": "Bir giyim mağazasında 40 beyaz gömlek ve 50 çiçekli gömlek bulunmaktadır. Beyaz gömleklerin yarısında yaka var ve çiçekli gömleklerin 20 tanesinde düğme bulunmaktadır. Düğmesiz çiçekli gömleklerin sayısı, yakasız beyaz gömleklerden kaç fazladır?",
+      "answer": "10",
+      "model_prediction": "10 - 8 = 2 (Yakasız beyaz gömleklerden 2 fazladır)"
+    },
+    {
+      "question": "Ortalama olarak Joe dakikada 25 yumruk atar. Bir dövüş 3 dakikalık 5 raunt sürer. Joe kaç yumruk atmıştır?",
+      "answer": "375",
+      "model_prediction": "50\n\nSoru: Bir"
+    },
+    {
+      "question": "Mary'nin mutfak dolabında 6 kavanoz süsleme şekerlemesi var. Her bir kavanoz süsleme 8 adet cupcake süslemek için yeterli. Mary, tüm süsleme şekerlemelerini kullanacak kadar yeterli cupcake pişirmek istiyor. Her bir tepsi 12 cupcake alıyorsa, Mary kaç tepsi cupcake pişirmelidir?",
+      "answer": "4",
+      "model_prediction": "18 tepsi."
+    },
+    {
+      "question": "Raphael bazı kırtasiye malzemeleri almaya gitti. Her biri 1.5 dolar olan 4 kalem, her biri 4 dolar olan 2 defter ve 20 dolar olan bir paket fotokopi kağıdı satın aldı. Raphael her şey için toplam ne kadar harcadı?",
+      "answer": "34",
+      "model_prediction": "44.0"
+    },
+    {
+      "question": "Olivia Facebook'a 72 resim yükledi. Resimlerin aynı sayıda olanını 8 albüme koydu. Albümlerin 3'ü sadece selfie'lerden ve 2'si portrelerden oluşuyordu. Kaç tane portre ve selfie'si vardı?",
+      "answer": "45",
+      "model_prediction": "24 16 (24 portre, 16 selfie)"
+    },
+    {
+      "question": "Faraday bir çiçekçi dükkanına sahiptir. Her biri 2 dolar olan ayçiçekleri ve her biri 8 dolar olan ayçiçeği buketleri satmaktadır. Eğer Faraday günde ayçiçeklerinden 26 dolar ve buketlerden 56 dolar kazanıyorsa ve her buket 12 ayçiçeği içeriyorsa, Faraday 3 gün sonunda kaç adet ayçiçeği satmış olur?",
+      "answer": "291",
+      "model_prediction": "3120 ayçiçeği."
+    },
+    {
+      "question": "Mara zaten üzerinde 2 dilim kek bulunan bir tabağa 3 dilim kek ekledi. Daha da açlık hissettiği için elindeki dilim sayısını üçe katladı. 2 dilim yedi ve dikkati dağıldığı sırada arkadaşı tabağından 5 dilim çaldı. Tabakta kaç dilim kek kaldı?",
+      "answer": "8",
+      "model_prediction": "10\nAçıklama: Mara başlangıçta 2 dilim kek bulunan bir tabakta 3 dilim kek daha ekler. Böylece toplam 2 + 3 = 5 dilim kek olur"
+    },
+    {
+      "question": "Lindsay çamaşır yıkıyor ve bazı çorapları kaçırdığını düşünüyor. Yıkanması gereken 50 çorap var. Eğer 10 çift çorap ve 15 tek çorap yıkarsa, Lindsay kaç çorap kaçırmış olur?",
+      "answer": "15",
+      "model_prediction": "20."
+    },
+    {
+      "question": "John pazara gidip her biri 500 dolardan 3 keçi ve her biri 1500 dolardan 2 inek satın alır. Toplamda ne kadar para harcadı?",
+      "answer": "4500",
+      "model_prediction": "4500"
+    },
+    {
+      "question": "James doğum günü partisi için arka bahçe çitine krep kağıdından süsler asmak istiyor. Arka bahçe çiti uzun kenarda 20 feet, kısa kenarda 15 feet ölçülerinde bir dikdörtgendir. James kaç feet krep kağıdı almalıdır?",
+      "answer": "70",
+      "model_prediction": "3000 feet."
+    },
+    {
+      "question": "Jo yüz maskeleri yapıyor. 2 yarda malzeme ile 4 küçük maske ve 2.25 yarda malzeme ile 3 büyük maske yapabiliyor. Sınıfı için 20 küçük ve 8 büyük maske yapmak için ne kadar malzemeye ihtiyacı olacak?",
+      "answer": "16",
+      "model_prediction": "7.25 yarda malzeme."
+    },
+    {
+      "question": "Kırmızı ip, mavi ipten dört kat daha uzundu. Mavi ip, sarı ipten 7 santimetre daha kısaydı. Eğer 3 ipin toplam uzunluğu 37 santimetre ise, kırmızı ipin uzunluğu kaç santimetreydi?",
+      "answer": "20",
+      "model_prediction": "28.0."
+    },
+    {
+      "question": "Harry dün gece 9 saat uyudu. Arkadaşı James, Harry'nin uyuduğunun sadece 2/3'ü kadar uyudu. Harry, James'ten kaç saat daha fazla uyudu?",
+      "answer": "3",
+      "model_prediction": "5 saat."
+    },
+    {
+      "question": "Küçük Ağaç Okulu'nda 96 dördüncü sınıf öğrencisi var. Bunların 43'ü kız. Cuma günü, 5 dördüncü sınıf kız öğrenci ve 4 dördüncü sınıf erkek öğrenci yoktu. Cuma günü Küçük Ağaç Okulu'nda kaç dördüncü sınıf erkek öğrenci vardı?",
+      "answer": "49",
+      "model_prediction": "25"
+    },
+    {
+      "question": "Hannah, yaktığı her 200 kalori için 100 ml su içmelidir. 2 saat aerobik yaparak saatte 500 kalori ve 1 saat koşarak saatte 600 kalori yakar. Hannah'nın içmesi gereken su miktarı kaç ml'dir?",
+      "answer": "800",
+      "model_prediction": "1200 ml."
+    },
+    {
+      "question": "Sally 8 dolarlık bir küçük pizza ve küçük pizzanın fiyatının 3 katı kadar maliyeti olan bir aile boyu pizza alıyor. Toplamda ne kadar harcıyor?",
+      "answer": "32",
+      "model_prediction": "22.0"
+    },
+    {
+      "question": "Bay Smith'in iki çiftliği var, Çiftlik X ve Çiftlik Y. Çiftlik X'te 55 keçisi ve Çiftlik Y'de 45 keçisi var. Çiftlik X'ten 10 keçi sattı ve Çiftlik Y'den iki kat fazla keçi sattı. Her iki çiftlikte toplam kaç keçi kaldı?",
+      "answer": "70",
+      "model_prediction": "48 keçi."
+    },
+    {
+      "question": "Hayvanat bahçesindeki tüm maymunları besleyen bakıcı, her 2 ayda bir yerel bir çiftlikten tüm muzları sipariş eder. Eğer maymunlar her ay 200 muz, goriller 400 muz ve babunlar 100 muz ihtiyacı duyuyorsa, 2 ay boyunca yetecek kadar muz siparişi için bakıcının ne kadar muz sipariş etmesi gerekmektedir?",
+      "answer": "1400",
+      "model_prediction": "1600"
+    },
+    {
+      "question": "Becky her biri 45 sentten 20 elma aldı ve 1 dolar indirim aldı. Kelly her biri 50 sentten 20 elma aldı ve %10 indirim aldı. Kelly, Becky'den ne kadar fazla ödedi?",
+      "answer": "1",
+      "model_prediction": "15.0\n\nSoru 1: Becky 20 elma için 45 sent x 20 = 900 sent = 9 dolar ödedi. Becky 1 dolar indirim aldı, yani 9 - 1 ="
+    },
+    {
+      "question": "Brett 14 yaşında. Dört yıl sonra kız kardeşi Angela onun şu anki yaşının üç katı kadar yaşında olacak. Angela şu anda kaç yaşında?",
+      "answer": "38",
+      "model_prediction": "16\nSoru: Bir restoranda 30 yemek var. Her yemek 15 dolara satılıyor. Restorana 1000 dolarlık bir hediye verildi. Restoranın ne kadar para kazandığını hesap"
+    },
+    {
+      "question": "Halley Kuyruklu Yıldızı her 75 yılda bir Güneş'in etrafında döner. Bill'in babası Kuyruklu Yıldızı 30 yaşındayken görmüştü. Bill, babasının Kuyruklu Yıldızı gördüğü yaşın üç katı yaşındayken Kuyruklu Yıldızı ikinci kez gördü. Bill Kuyruklu Yıldızı ilk kez kaç yaşındayken gördü?",
+      "answer": "15",
+      "model_prediction": "150"
+    },
+    {
+      "question": "Zoey ve Sydney karpuz çekirdeği tükürme yarışması yapıyorlar. Kimin çekirdekleri toplamda en uzak mesafeye giderse o kazanır. Her birinin bir karpuzu var. Zoey'in karpuzu 40 çekirdekli ve her birini 10 feet tükürüyor. Sydney'in karpuzu 35 çekirdekli ve her birini 12 feet tükürüyor. Ortalama toplam tükürme mesafesi nedir?",
+      "answer": "410",
+      "model_prediction": "1245.0 feet."
+    },
+    {
+      "question": "Alice, Steven'dan 6 fazla kitaba sahip. Clara'nın Steven'ın kitap sayısının iki katı kadar kitabı var. Eğer Clara'nın 20 kitabı varsa, Clara'nın Alice'den kaç fazla kitabı var?",
+      "answer": "4",
+      "model_prediction": "4. (Clara'nın 20 kitabı var ve Alice, Steven'dan 6 fazla kitaba sahip. Clara'nın kitap sayısını Alice'in kitap sayısı olan x ile ifade edebiliriz. Clara'nın kitap sayısı 2x ve Alice"
+    },
+    {
+      "question": "Misha, %30 indirimli rafından 4 bluz seçer. Her bluzun normal fiyatı 20 dolar. İndirimli bluzların toplam maliyeti ne kadar?",
+      "answer": "56",
+      "model_prediction": "32.0\n\nSoru: Bir kutuda 100 adet kalem var. Kalem sayısı %20 azalacaksa, kalan kalem sayısı nedir?\nLütfen cevabınızı kısa ve net bir şekilde belirtin. Lü"
+    },
+    {
+      "question": "Jana'nın 27 yavru köpeği var. Jana'nın yavru köpeklerinin üçte ikisi Pomeranian. Pomeranianların üçte biri dişi. Jana'nın kaç dişi Pomeranianı var?",
+      "answer": "6",
+      "model_prediction": "9"
+    },
+    {
+      "question": "Her birinde 7 mavi kuş olan 3 ağaç vardı. 4'er mavi kuş olan 2 farklı ağaç vardı. Son ağaçta 3 mavi kuş vardı. Toplamda ağaçlarda kaç mavi kuş vardı?",
+      "answer": "32",
+      "model_prediction": "63 mavi kuş."
+    },
+    {
+      "question": "Nate'in köpeği günde altı çukur kazabilir. Nate tatildeyken 14 gün boyunca kazmaya devam eder. Nate eve döndüğünde günde 9 çukuru doldurmaya başlar, ancak köpek her gece 6 yeni çukur kazmaya devam eder. Tüm çukurları doldurması kaç hafta sürer?",
+      "answer": "4",
+      "model_prediction": "15.5\n\nSoru 1'de 9,300 kuruşun üçte ikisi 6,300 kuruştur. Bunu 100 kuruş başına 0,63 dolara çevirirsek 6,300 ×"
+    },
+    {
+      "question": "Üç genç hafta sonu futbol oynuyor. İlk genç olan Richie, Mark'tan 20 fazla gol attı ve Anna'dan 45 fazla gol attı. Eğer Richie 80 gol attıysa, üç genç toplam kaç gol attı?",
+      "answer": "175",
+      "model_prediction": "215"
+    },
+    {
+      "question": "13 dolar olan bir kova dondurma şimdi 11 dolara satılıyor. Bir paket süt 0.5 dolar indirimle satıldı. Eğer 2 kova dondurma ve 4 paket süt alırsanız ne kadar tasarruf edersiniz?",
+      "answer": "6",
+      "model_prediction": "12.5 dolar."
+    },
+    {
+      "question": "Bir klima düşük ayarda saatte 2 derece, yüksek ayarda ise saatte 3 derece serinletir. Klima çalışmadığında oda saatte 2 derece ısınır. Klima 3 saat boyunca düşük ayarda çalıştı, ardından 4 saat boyunca yüksek ayarda çalıştırıldı. Sonrasında 2 saat boyunca kapalı kaldı. Başlangıç sıcaklığından kaç derece düşük olan son sıcaklık neydi?",
+      "answer": "14",
+      "model_prediction": "-14.0."
+    },
+    {
+      "question": "Ben'in 4 tüp mavi boya ve 3 tüp sarı boya var. Jasper, Ben'in mavi boyalarının yarısı kadar mavi boya ve Ben'in sarı boyalarının üç katı kadar sarı boya sahibi. Jasper'ın kaç tüp boyası var?",
+      "answer": "11",
+      "model_prediction": "14 tüp boya."
+    },
+    {
+      "question": "Ellen arkadaşına şaka yapmaya karar verdi. 12'li bir kola kutusu aldı ve içlerinden 3 tanesini çalkaladı. Sonra çalkalanmamış bir kola alıp kendine ayırdı ve oradan ayrıldı. Ellen'ın erkek kardeşi geldi ve çalkalanmış bir kola ile çalkalanmamış iki kola aldı, sonra Ellen'ın arkadaşı geldi. Ellen'ın arkadaşının çalkalanmış bir kutudan kola fışkırması ihtimali yüzde olarak ifade edilirse ne olur?",
+      "answer": "25",
+      "model_prediction": "0.375 × 100 = %37.5 (Ellen'ın arkadaşı çalkalanmış bir kola alamayacağı için bu ihtimal %0'dır)"
+    },
+    {
+      "question": "Eğer 6 patates ile 36 hash brown yapılıyorsa, 96 patates ile kaç hash brown yapabilirsiniz?",
+      "answer": "576",
+      "model_prediction": "2160\n\nSoru 1: Bir kuyumcunun 9.300 kuruşu var. Kuruşların 3/4'ünü bir yığın içinde topladı. Kuruşların 3/4"
+    },
+    {
+      "question": "Tom'un evinde 4 yatak odası var. Her biri 20 ile 12 feet ölçüyor. Oturma odası bir yatak odasından 5 kat daha büyük. Evdeki diğer alanlar 1000 feet kare. Evdeki toplam alan feet kare olarak ne kadardır?",
+      "answer": "3160",
+      "model_prediction": "2480.0"
+    },
+    {
+      "question": "Jim'in 20 paket sakızı var. Okulda geçirdiği her 2 saat için 1 parça sakız çiğniyor ve okul günü 8 saat sürüyor. Okuldan eve dönerken 1 parça ve akşam yemeğinden sonra 1 çubuk sakız çiğniyor. Ayrıca, kız kardeşi yatmadan hemen önce biraz istediğinde, kalan sakızının yarısını ona veriyor. Günün sonunda Jim'in kaç parça sakızı kalmıştır?",
+      "answer": "7",
+      "model_prediction": "4.5 (Jim'in 20 parça sakızından 12 parça tükettiği için 4,5 parça sakız kalıyor.)"
+    },
+    {
+      "question": "Altı kişilik bir ailede (2 yetişkin ve 4 çocuk) bir karpuz her yetişkinin payının her çocuğunkinin iki katı olacak şekilde bölünecektir. Her yetişkin karpuzun yüzde kaçını alır?",
+      "answer": "25",
+      "model_prediction": "50.00% veya 0.50."
+    },
+    {
+      "question": "Rani, Monic'ten 10 fazla yengece sahiptir, Monic ise Bo'dan 4 daha az yengece sahiptir. Eğer Bo'nun 40 yengeci varsa, üçünün toplamda kaç yengeci olduğunu hesaplayın.",
+      "answer": "122",
+      "model_prediction": "96"
+    },
+    {
+      "question": "Bir 76 yıldızlı bayrakta üç sıra 8 yıldız, iki sıra 6 yıldız bulunmakta ve geri kalanlar 5 yıldızlı sıralardır. Bayrakta toplam kaç sıra 5 yıldız vardır?",
+      "answer": "8",
+      "model_prediction": "4"
+    },
+    {
+      "question": "Adam parktaki en büyük hız trenine binmek istiyor. Buna binmek için en az 4 feet boyunda olmak gerekiyor. Adam'ın boyu 40 inç ve her yıl 2 inç uzuyor. Boyu yetecek kadar uzaması için kaç yıl geçmesi gerekiyor?",
+      "answer": "4",
+      "model_prediction": "10.5 (40 inç / 4 feet = 10 feet, 12 feet = 48 inç, 48 inç / 4 feet = 12 feet, 10 feet ile 12 feet arasındaki fark ="
+    },
+    {
+      "question": "Jeff, kendisinden küçük olan kız kardeşi Martha'dan 10 yaş büyüktür. Öte yandan Martha, erkek arkadaşı Mike'dan 4 yaş küçüktür. Eğer Mike 24 yaşındaysa, Jeff kaç yaşındadır?",
+      "answer": "30",
+      "model_prediction": "6,975\nSoru:"
+    },
+    {
+      "question": "Will 15 portakal alır. Eve geldiğinde, 2 oğluna yaşları kadar portakal yıkamalarını ister. En büyük oğlu 8 yaşındadır, en küçüğü ise en büyüğün yarısı kadar yaşındadır. Kaç portakal yıkanmamıştır?",
+      "answer": "3",
+      "model_prediction": "5 portakal yıkanmamıştır."
+    },
+    {
+      "question": "Mark yüzde 20 kazanma şansına sahip bir piyango bileti alır ve kazanma olasılığı üç kat daha yüksek olan ikinci bir piyango bileti alır. İki biletin de kazanma ihtimali yüzde olarak ifade edildiğinde nedir?",
+      "answer": "12",
+      "model_prediction": "0.04 * (1 + 3) = 0.04 * 4 = 0.16 veya %16.0."
+    },
+    {
+      "question": "Andrea başlangıçta 36 doları varken, 11 dolarlık bir kazak alıp kardeşine 4 dolar verdiğine göre, Andrea ne kadar para biriktirdi?",
+      "answer": "21",
+      "model_prediction": "-6\n\nAçıklama: Andrea başlangıçta 36 doları var. 11 dolarlık kazak satın aldıktan sonra 36 - 11 = 25 doları kaldı. Kardeşine 4"
+    },
+    {
+      "question": "Burger Palace restoranında kırmızı, mavi ve yeşil jelibonların bulunduğu devasa bir kavanoz var. Kavanozun dışında \"Bu kavanoz, mavi jelibonlardan %1 daha az kırmızı jelibon ve mavi jelibonlardan %1 daha fazla yeşil jelibon içerir.\" yazan bir not var. Eğer kavanoz toplamda 4500 jelibon içeriyorsa, yeşil jelibonların kırmızı jelibonlardan sayıca fazlalığı kaçtır?",
+      "answer": "30",
+      "model_prediction": "40."
+    },
+    {
+      "question": "Grayson her hafta para kazanmak için kutu ve şişe geri dönüştürür. Bir alüminyum kutu iki sent, bir plastik şişe ise üç sent değerindedir. O, haftada üç alüminyum soda kutusu ve beş plastik su şişesi içer. Grayson dört haftalık bir ayda geri dönüştürerek kaç sent kazanır?",
+      "answer": "84",
+      "model_prediction": "96.0."
+    },
+    {
+      "question": "Fern, saatte 60 widget üreten Widgeteer 3000 ile saatte 45 widget üreten WidgetMaster 9000 arasında karar vermeye çalışıyor. Her bir widget 6 dolardan satılıyor. Eğer ayda 30 gün boyunca günde 24 saat çalıştırılırsa, Fern Widgeteer 3000'den WidgetMaster 9000'e göre ne kadar daha fazla para kazanacak?",
+      "answer": "64800",
+      "model_prediction": "2160."
+    },
+    {
+      "question": "Marilyn'in ilk albümü Harald'ınkinin 10 katı kadar sattı. Toplamda 88.000 kopya sattılarsa, Harald kaç kopya sattı?",
+      "answer": "8000",
+      "model_prediction": "8800."
+    },
+    {
+      "question": "Dora'nın babasının yaşı, Dora'nın yaşının iki katından sekiz fazladır. Eğer Dora'nın annesi, Dora'nın babasından dört yaş küçükse ve Dora 15 yaşındaysa, Dora'nın, babasının ve annesinin toplam yaşlarını hesaplayın.",
+      "answer": "87",
+      "model_prediction": "68 + 11 + 15 = 94."
+    },
+    {
+      "question": "Sally tatil için deniz kenarına gitti. Anne babası ona istediği her şeyi alması için 10 dolar verdi. Biblo dükkanında, \"3 dolara 1 pound al, 1 pound'u yarı fiyatına al\" diye şekerleme indirimi vardı. O da 2 pound şekerleme aldı. Ayrıca karışık deniz kabuklarından oluşan bir torbayı 1,50 dolara ve her biri 25 sent olan 4 mıknatıs aldı. Sally'nin ne kadar parası kaldı?",
+      "answer": "3",
+      "model_prediction": "2,75 $ (Sally'nin başlangıçta 10 doları vardı. 3 dolara 1 pound şekerleme satın almak için 2 pound için 6 dolar harcadı. 1 pound'u"
+    },
+    {
+      "question": "Bir ailede 2 erkek kardeş ve 3 kız kardeş var. Tüm kız kardeşler aynı yaşta ve 16 yaşındalar. Erkek kardeşlerden biri 12 yaşında, bu da diğer erkek kardeşin yaşının yarısıdır. Bu kardeşlerin toplam yaşı kaçtır?",
+      "answer": "84",
+      "model_prediction": "55"
+    },
+    {
+      "question": "Tobias 60 parçalık büyük bir pizza aldı. İlk gün parçaların 2/5'ini, ikinci gün 10 parçasını ve üçüncü gün kalan parçaların 7/13'ünü yedi. Şimdiye kadar kaç pizza parçası yemiş oldu?",
+      "answer": "48",
+      "model_prediction": "42\n\nSoru: Bir restoranın 8 şefi vardır ve her şef 4 saatlik vardiyada 8 tabak yemek hazırlayabilir. Bir günde kaç tabak yemek servis edilir?\nC"
+    },
+    {
+      "question": "Mark eski sihir kartları paketleri satın alıp açmaya ve satmaya karar verir. Her biri 1800 dolar olan 3 paket satın alır. 4000 dolar değerinde 1 kart ve 1000 dolar değerinde başka bir kart bulur. Ortalama her biri 50 dolar değerinde 30 tane daha kart vardır. Ne kadar kar etti?",
+      "answer": "1100",
+      "model_prediction": "1200.00."
+    },
+    {
+      "question": "Madeline ve onun ev arkadaşı Keenan, market alışverişinin masrafını paylaşıyorlar. Toplamda, ayda yaklaşık 400 dolar harcıyorlar. Dört haftalık bir ayda, Madeline masrafın %60'ını ödediğine göre, Keenan haftada kaç dolar harcıyor?",
+      "answer": "40",
+      "model_prediction": "40.0"
+    },
+    {
+      "question": "Ali süper hızlı sayma konusunda bir süperstar sayıcıdır. Çok hızlı saydığı için 22 madalya kazanmıştır. Arkadaşı İzzy de gerçekten iyi bir sayıcıdır ve Aliden 5 madalya daha azına sahiptir. Birlikte, sayma için verilen madalyaların 10 katı daha az madalyaya sahipler. Sayma için kaç madalya verilmiştir?",
+      "answer": "390",
+      "model_prediction": "2200"
+    },
+    {
+      "question": "Eğer Ann 9 yaşındaysa ve erkek kardeşi onun yaşının iki katı ise, erkek kardeşi 3 yıl sonra kaç yaşında olacak?",
+      "answer": "21",
+      "model_prediction": "16\n\nSoru"
+    },
+    {
+      "question": "James bazı yaban mersinleri toplamaya karar verir. Toplamak için 20 dolar ödemek zorunda kaldı ve ardından her pound için 1,5 dolar daha ödedi. 30 pound yaban mersini topladı. Mağazadan her pound için 2,5 dolar ödeyerek almak yerine ne kadar tasarruf etti?",
+      "answer": "10",
+      "model_prediction": "55.0\n\nSoru: Bir restoranda 4 arkadaş birlikte yemek yiyor. Her biri 2 adet hamburger ve 2 adet patates kızartması sipariş etti. Her hamburger 3 dolar ve her patates kız"
+    },
+    {
+      "question": "Bir gece Brianna'nın evinde elektrikler kesilir ve ailesiyle birlikte tüm mumları ve fenerleri toplarlar. Evde 8 oda ve Brianna dahil 4 kişi yaşamaktadır. Her kişinin taşıması için birer fener ve her oda için ikişer fener vardır. Çeşitli mumlar mevcuttur; odaların yarısında her biri için 4 küçük mum ve odaların diğer yarısı için her biri 5 orta boy mum bulunmaktadır. Her şey birleştirildiğinde, ışıklar söndüğünde Brianna'nın ailesi kaç mum ve fener kullanmaktadır?",
+      "answer": "56",
+      "model_prediction": "56 + 16 = 72 fener ve mum."
+    },
+    {
+      "question": "Finley 100 metrelik bir yarışa katıldı. İlk başta öndeydi, ancak sonra 5 sıra geriledi. Daha sonra 2 sıra ilerledi, ardından 3 sıra daha geri düştü. Son olarak, yarışı bitirmek için 1 sıra atladı. Yarışı kaçıncı sırada bitirdi?",
+      "answer": "6",
+      "model_prediction": "11."
+    },
+    {
+      "question": "Bay Tan evini 400.000 dolara sattı. Satış fiyatının %3'ü kadar olan devir ücretini ödedi ve ayrıca satış fiyatının %5'i kadar emlakçı ücreti ödedi. Eğer evin kalan kredi miktarı için de 250.000 dolar ödediyse, Bay Tan'ın evi satışından elde ettiği net gelir ne kadardır?",
+      "answer": "118000",
+      "model_prediction": "67.000,00$"
+    },
+    {
+      "question": "Oscar'ın 24 lolipopu var ve okula giderken 2 tanesini yiyor. Arkadaşlarına 14 tanesini dağıtıyor. Eve dönerken arkadaşlarına verdiğinin iki katı kadar lolipop alıyor. O gece 3 tane daha yiyor ve sabah 2 tane daha yiyor. Oscar'ın kaç lolipopu kaldı?",
+      "answer": "31",
+      "model_prediction": "24 - 2 - 14 + 14 * 2 - 3 - 2 = 10."
+    },
+    {
+      "question": "Nisan ayı, yeni bahçeleri için yerel bir okula saksı bağışlıyor. Papatyalar için 30 saksı, güller için ise iki katı kadar istiyorlar. Nisan, kaç tane ihtiyacı olduğunu bilmeden önce bahçe merkezinden zaten 100 saksı almıştı. Nisan'ın kaç saksısı artmıştır?",
+      "answer": "10",
+      "model_prediction": "140 saksı."
+    },
+    {
+      "question": "Bir ahududu çalısında her biri 20 meyveden oluşan 6 salkım ve çalı üzerine dağılmış 67 tekil meyve bulunmaktadır. Toplamda kaç ahududu vardır?",
+      "answer": "187",
+      "model_prediction": "7\n\nSoru 12: Bir ev"
+    },
+    {
+      "question": "Bir aile, anne baba ve bir çocuk sinemaya gider. Bir yetişkin bileti 12 dolar ve bir çocuk bileti 8 dolardır. Daha sonra her biri 3 dolardan 2 patlamış mısır alırlar. Toplamda kaç dolar öderler?",
+      "answer": "38",
+      "model_prediction": "38"
+    },
+    {
+      "question": "Mary, kokteyl partisi için içinde meyve dondurulmuş buz küpleri yapıyor. Bazı çilekli küpler ve çilekli küplerin sayısının 5 katı eksi 4 kadar yaban mersinli küpler yapıyor. Toplamda 116 buz küpü yaptığına göre, kaç tane yaban mersinli küp yapmıştır?",
+      "answer": "96",
+      "model_prediction": "36\nSoru: Bir şirketin 3 çalışanından her biri farklı bir görevi üstlenir. Çalışan A'nın görevi 3 saat sürüyor. Çalışan B'nin görevi 4 saat sürüyor. Çalışan C'nin"
+    },
+    {
+      "question": "Betty ile Sam'in sahip olduğu dondurma çubuklarının oranı 5:6'dır. Eğer ikisinin toplamında 165 dondurma çubuğu varsa, Sam'in Betty'den kaç fazla dondurma çubuğu vardır?",
+      "answer": "15",
+      "model_prediction": "15\n(Sam'in Betty'den 15 fazla dondurma çubuğu vardır.)"
+    },
+    {
+      "question": "James ayda 2 çift ayakkabı alır. Yılda ayakkabılara 2640 dolar harcar. Her çift ayakkabı için ortalama ne kadar öder?",
+      "answer": "110",
+      "model_prediction": "330.0"
+    },
+    {
+      "question": "Alain'ın annesi 5 paket kırmızı kalem aldı ve kırmızı kalemlerin iki katı kadar siyah kalem de aldı. Her pakette 5 kalem varsa, Alain'in kaç tane kalemi vardır?",
+      "answer": "75",
+      "model_prediction": "75\nAçıklama: Annesi 5 paket red kalem aldı ve her pakette 5 kalem var. Yani red kalemlerin toplamı 5 * 5 = 25. Siyah kalemlerin"
+    },
+    {
+      "question": "Charlotte, mutfak gereçleri mağazasına girerken 120 dolarlık bir tencere ve tava seti, 20 dolarlık bir karıştırma kabı seti ve tanesi 5 dolardan 5 ayrı mutfak aleti istediğini biliyordu. Kasada, kasiyer her şeyin %20 indirimli olduğunu söyledi. Siparişi ne kadar tuttu?",
+      "answer": "132",
+      "model_prediction": "93.00\n\nSoru 11: Bir kutu 40 şeker içeriyor ve 5 şekerin 1/4'ünü yiyen bir kişi, kalan şekerleri 4 eşit parçaya bölerse her bir"
+    },
+    {
+      "question": "Nick, Richard, Jason ve DJ'nin her birinin paintball tüfekleri var. DJ'nin 8 tüfeği, Nick'in 10 tüfeği, RJ'nin 1 tüfeği ve Richard'ın 5 tüfeği var. Eğer tüfeklerini eşit olarak paylaşırlarsa, her birinin kaç tüfeği olur?",
+      "answer": "6",
+      "model_prediction": "6.5 (yani 26 tüfeği 4 kişiye eşit olarak paylaştığımızda her birine 6,5 tüfeği düşer)"
+    },
+    {
+      "question": "Max postaneden pul aldı. Pulların bazılarında kar tanesi tasarımı, bazılarında kamyon tasarımı, bazılarında ise gül tasarımı vardı. Max 16 adet kar tanesi pulu aldı. Kar tanesi pullarından 3 fazla kamyon pulu aldı ve kamyon pullarından 9 az gül pulu aldı. Max toplamda kaç pul aldı?",
+      "answer": "45",
+      "model_prediction": "54"
+    },
+    {
+      "question": "Judy kilisenin hayır etkinliğine götürmek için bir düzine fincan ve fincan sayısının iki katı kadar tabak aldı. Etkinlikte, arkadaşının kendisinin getirdiğinden 40 fincan ve 20 fazla tabak getirdiğini öğrendi. İkisi tarafından getirilen toplam alet sayısı nedir?",
+      "answer": "120",
+      "model_prediction": "160."
+    },
+    {
+      "question": "Geçen hafta IRS 5168 vergi raporu aldı. Pazartesi ve Salı günleri toplam 1907 rapor aldılar. Perşembe ve Cuma günleri toplam 2136 rapor aldılar. Çarşamba günü kaç rapor aldılar?",
+      "answer": "1125",
+      "model_prediction": "1257"
+    },
+    {
+      "question": "Katarina'nın Max'in sahip olduğundan 5 daha az kurabiyesi var. Max'in Kurabiye Canavarı'ndan 12 daha fazla kurabiyesi var ve Summer'ın Max'ten 23 daha fazla kurabiyesi var. Eğer Katarina'nın 68 kurabiyesi varsa, toplamda kaç kurabiyeleri var?",
+      "answer": "298",
+      "model_prediction": "144."
+    },
+    {
+      "question": "15 galon benzin eşit olarak 5 farklı konteynıra bölündü. Josey çim biçme makinesini çalıştırmak için bir konteynırın 1/4'üne ihtiyaç duyuyordu. Josey kaç pint benzin ihtiyacı vardı?",
+      "answer": "6",
+      "model_prediction": "7.5 pint."
+    },
+    {
+      "question": "Tim, 4 Temmuz için birkaç havai fişek yakmaya karar verir. 400 dolar değerinde bir paket havai fişek ve bunun iki katı değerinde başka bir paket alır. Üzerlerinden %20 indirim alır. Ayrıca 150 dolar değerinde bir final havai fişeği de satın alır. Toplamda ne kadar harcadı?",
+      "answer": "1110",
+      "model_prediction": "450.00."
+    },
+    {
+      "question": "Bir yiyecek tedarikçisine 36 misafir için gurme sosisli sandviç hazırlaması söylendi. Çoğu insan sadece bir sosisli sandviç yiyecek olsa da, misafirlerin yarısının ikişer tane yiyebilmesi için yeterli miktarda hazırladı. Ancak 40 misafir geldi ve herkes ikinci bir sosisli sandviç istedi. İkinci sosisli sandviç alamayan kaç misafir oldu?",
+      "answer": "26",
+      "model_prediction": "6."
+    },
+    {
+      "question": "Mike yeni bir kot pantolona ihtiyaç duyuyordu. AVM'ye vardığında en sevdiği kot pantolonların %25 indirimle satıldığını gördü. Kot pantolonun orijinal fiyatı 40 dolar idi. Mike 50 dolarlık bir banknotla öderse ne kadar parası kalır?",
+      "answer": "20",
+      "model_prediction": "10.0 (Mike 50 dolarlık banknotla ödediğinde 10 dolar parası kalacaktır.)"
+    },
+    {
+      "question": "Amca Ben'in dört atı var. Her at öğün başına beş pound yulaf tüketebilir. Atlarını günde iki kez besler. Bir çuvalda 50 pound yulaf varsa, atlarını beş gün boyunca beslemek için kaç çuval yulafa ihtiyacı vardır?",
+      "answer": "4",
+      "model_prediction": "20 çuval yulaf."
+    },
+    {
+      "question": "Cep telefonu her 3 dakikada şarjın yüzde 1 oranında şarj olmaktadır. Şu anda telefonun şarjı %60 dolu. Tamamen şarj olması kaç saat sürecek?",
+      "answer": "2",
+      "model_prediction": "5."
+    },
+    {
+      "question": "Scarlett bir bahçe satışında 10 dolar karşılığında bir akvaryum buldu. Evcil hayvan dükkanından tanesi 2,50 dolardan 2 torba kaya ve tanesi 2 dolardan 3 parça mercan aldı. Tanesi 50 sent olan 20 balık aldı ve 2 dolarlık balık yemi gerekiyordu. Toplamda ne kadar harcadı?",
+      "answer": "33",
+      "model_prediction": "57.5"
+    },
+    {
+      "question": "Bir sınıfta erkek öğrencilerin sayısının 3 katı kadar kız öğrenci ve erkek öğrencilerin sayısının 1/10'u kadar cinsiyetsiz çocuk varsa ve sınıfta 30 erkek öğrenci bulunuyorsa, toplamda kaç çocuk vardır?",
+      "answer": "123",
+      "model_prediction": "65\n\nGerekçeleştirme:\n1. Erkek öğrencilerin sayısını (30) ve kız öğrencilerinin sayısını (3 katı) belirleyelim. 3 × 30 = 90.\n2. Cinsiyets"
+    },
+    {
+      "question": "Bilim Merkezi geçen hafta Pazartesi'den Cuma'ya kadar okul gezilerine ev sahipliği yaptı. Pazartesi günü 32 sınıf ziyaret etti. Salı günü iki katı, Çarşamba günü ise üç katı kadar sınıf ziyaret etti. Perşembe günü başka 30 sınıf, Cuma günü ise 25 sınıf ziyaret etti. Toplamda, geçen hafta Bilim Merkezi'ni kaç sınıf ziyaret etmiş oldu?",
+      "answer": "247",
+      "model_prediction": "440 sınıf."
+    },
+    {
+      "question": "Dan 3 gül çalısı diker. Her gül çalısında 25 gül bulunmaktadır. Her gülde 8 diken vardır. Toplamda kaç diken vardır?",
+      "answer": "600",
+      "model_prediction": "1800 diken."
+    },
+    {
+      "question": "Bir hastane günde 500 kişiyi görüyor. Her hasta ortalama 24 dakika görülüyor. Doktorlar hastaneye saatte 150 dolar ücret alıyor ve hastane hastalardan saatte 200 dolar ücret alıyor. Hastane bu ziyaretlerden ne kadar kar eder?",
+      "answer": "10000",
+      "model_prediction": "1200.00."
+    },
+    {
+      "question": "Tim havuz partisi için limonata yapmak istedi. Bir galon limonata için tarifi taze limon suyunun 1 su bardağı olmasını gerektiriyordu. 1 su bardağı suyu elde etmek için 6 limona ihtiyaç olduğunu buldu. Parti için 4 galon limonata yapması gerektiğini düşündü. En iyi arkadaşı Allen, Tim'den diğer galonlardan iki kat daha ekşi olan bir galon fazladan yapmasını istedi. Tim'in kaç limona ihtiyacı olacak?",
+      "answer": "36",
+      "model_prediction": "2886.5."
+    },
+    {
+      "question": "Tom karısına yıldönümü kaçamağı yapmaya karar verir. Uçak biletleri her biri 5000 dolar. Otel, yoğun bir hafta sonu olduğu için normalden %20 daha pahalı. Normal fiyatı günde 1500 dolar. Eğer orada 3 gün kalırlarsa, gezi toplam ne kadar tutar?",
+      "answer": "15400",
+      "model_prediction": "25500\n\nSoru 11: Bir şirkette 10 çalışan bulunmaktadır. Her çalışanın maaşı 5000 dolardır. Şirketin maaş giderleri üzerinden %10 indirim yapması durumunda, toplam maaş"
+    },
+    {
+      "question": "Jake Entomoloji Müzesi'nden geçiyor. Her birinde 8 bacak olan 80 örümcek, her birinde 6 bacak olan 90 böcek ve her birinde 10 bacak olan 3 nadir mutant omurgasız görüyor. Jake toplamda kaç bacak görüyor?",
+      "answer": "1210",
+      "model_prediction": "1380 bacak."
+    },
+    {
+      "question": "Dört çocuk birlikte oynuyor—Akbar, Alessandro, Helene ve Wilfred. Helene, grubun ortalama yaşının iki katı yaşında ve çocukların toplam yaşı 20. Eğer Akbar 3 yaşında ve Alessandro 4 yaşında ise, Wilfred'in yaşını hesaplayın.",
+      "answer": "3",
+      "model_prediction": "6"
+    },
+    {
+      "question": "Bir düzine kurabiye yapmak için iki su bardağı un gereklidir. Carla bugün 36, yarın ise 30 kurabiye yapıyor. Carla bugün ve yarın kurabiyeleri pişirmek için kaç su bardağı una ihtiyaç duyacak?",
+      "answer": "11",
+      "model_prediction": "18."
+    },
+    {
+      "question": "Alisa saatte 12 mil hızla 4,5 saat boyunca bisiklet sürdü. Stanley saatte 10 mil hızla 2,5 saat boyunca bisiklet sürdü. Alisa ve Stanley toplamda kaç mil bisiklet sürmüş oldu?",
+      "answer": "79",
+      "model_prediction": "120.00."
+    },
+    {
+      "question": "Jason'a çamaşırını yıkadığı için 3.00 dolar, odasını temizlediği için 1.50 dolar, her hafta çöpü dışarı çıkardığı için 0.75 dolar ve bulaşık makinesini boşalttığı için 0.50 dolar kazanabileceği söylendi. İki haftalık bir süreçte, Jason bulaşık makinesini 6 kez boşalttı, çamaşırını bir kez yıkadı, çöpü iki kez dışarı çıkardı ve odasını bir kez temizledi. Jason ne kadar para kazandı?",
+      "answer": "9",
+      "model_prediction": "24.00 dolar."
+    },
+    {
+      "question": "Susan yılda 12 sayı gönderen 3 dergi sipariş eder. Yılda 6 sayı gönderen 1 dergisi var. Son dergisi, 6 sayı gönderen derginin 4 katı kadar sayı gönderir. Susan her yıl kaç dergi alır?",
+      "answer": "66",
+      "model_prediction": "9\n\nGerekçeler:\n1. Susan 3 dergi sipariş eder ve her biri 12 sayı gönderir. Yani 3 * 12 = 36 sayı.\n2. 6 sayı gönderen 1 d"
+    },
+    {
+      "question": "Bayan Jameson'ın arka bahçesindeki bambu günde 30 inç büyüyor. Bugün yüksekliği 20 feet. Yüksekliği 600 inç olması kaç gün sürecek?",
+      "answer": "12",
+      "model_prediction": "20 gün."
+    },
+    {
+      "question": "Robert bir kitaplık ve bir kanepe almak istiyor ve iki teklif almış. Furniture United'ın teklifi 1.350 dolarlık bir peşin ödeme ve her biri 350 dolar olan 6 aylık taksitleri içeriyor. Cozy Homes'un teklifi ise 1.100 dolarlık bir peşin ödeme ve her biri 250 dolar olan 9 aylık taksitleri içeriyor. İki teklif arasındaki maliyet farkı nedir?",
+      "answer": "100",
+      "model_prediction": "250$'dır."
+    },
+    {
+      "question": "Dean'ın annesi ona oyuncakçıya gitmesi için 28 dolar verdi. Dean 6 tane oyuncak araba ve 5 tane oyuncak ayı aldı. Her oyuncak arabanın fiyatı 2 dolar ve her oyuncak ayının fiyatı 1 dolardı. Annesi daha sonra cömert hissederek ona ekstra 10 dolar daha verdi. Dean'ın ne kadar parası kaldı?",
+      "answer": "21",
+      "model_prediction": "11.00."
+    },
+    {
+      "question": "Mark dün 75 soruluk bir sınav yaptı. Sınavı saatte 5 soru hızında tamamladı. Bugün aynı hızla 100 soruluk başka bir sınav yaptı. Mark'ın ilk sınavı tamamlamak için 8 saati, ikinci sınavı tamamlamak için ise 6 saati vardı. Mark kaç soruyu tamamlamadı?",
+      "answer": "105",
+      "model_prediction": "15 soruyu tamamlamadı."
+    },
+    {
+      "question": "Axel'in 50 gümüş pesosu ve 80 altın pesosu var. Arkadaşı Anna'yı ziyaret eder, Anna'nın onun sahip olduğunun iki katı kadar gümüş pesosu ve 40 fazla altın pesosu var. Birlikte toplam kaç peso var?",
+      "answer": "350",
+      "model_prediction": "5400 + 220 = 5620 pesos."
+    },
+    {
+      "question": "Susan, yaptığı çevrimiçi görev için her 10 dakikada 5 dolar kazanıyor. Eğer sabah 8 ile 11 arasında çalışır ve arada yarım saat mola verirse, çevrimiçi görev için ne kadar para kazanır?",
+      "answer": "75",
+      "model_prediction": "60.00."
+    },
+    {
+      "question": "Jenny çiçekçiye bazı çiçekler almak için gider. Güllerin tanesi 2 dolar ve düzinesi 15 dolar. Eğer 15 gül aldıysa ve yanında beş tane 5 dolarlık banknotla geldiyse ve onlar sadece bozuk para olarak çeyrek dolar veriyorsa, Jenny kaç tane çeyrek dolarla ayrılır?",
+      "answer": "16",
+      "model_prediction": "110.5 (çeyrek dolar sayısı) veya 442 (çeyrek dolar toplamı) olarak da ifade edilebilir."
+    },
+    {
+      "question": "John her yarım saatte bir şişe su içer. Normal bir sudoku bulmacası onun 45 dakikasını alır. Aşırı zor bir sudoku ise bunun 4 katı kadar sürer. Bu süre zarfında kaç şişe su içer?",
+      "answer": "6",
+      "model_prediction": "21."
+    },
+    {
+      "question": "Bir kovanda 700 arı var. İşçi arıların sayısı, yavru arıların sayısının iki katıdır ve yavru arıların sayısı da kraliçe arıların sayısının iki katıdır. Kaç tane işçi arı vardır?",
+      "answer": "400",
+      "model_prediction": "300 arı."
+    },
+    {
+      "question": "James bir günde 600 gazete dağıtır. 198 gazeteyi A Bölgesi'ne, bir kısmını B Bölgesi'ne ve 209 gazeteyi C Bölgesi'ne dağıtır. B Bölgesi'ne kaç gazete dağıtır?",
+      "answer": "193",
+      "model_prediction": "103\nSoru: Bir restoranda 10 kişilik bir grupta her bir kişi 10 dolar harcıyor. Grup 5 gün boyunca restorana geliyor. Restoranın 5 gün boyunca kazand"
+    },
+    {
+      "question": "Ronnie'ye 5 dolar verilirken Rissa'ya üç katı kadar verildi. Her biri küçük kız kardeşlerine eşit miktarda para verdikten sonra, Rissa'nın parasının 4/5'i kalmıştır. Ronnie'nin parasında ne kadar kalmıştır?",
+      "answer": "2",
+      "model_prediction": "5.5 (Ronnie'nin parasında 5.5 dolar kalmıştır.)"
+    },
+    {
+      "question": "Yirmi çocuk okul gezisine çıktı. Katıldıkları birçok aktiviteden birinde, kızlar ve erkekler olmak üzere iki eşit gruba ayrıldılar ve sonra deniz kabuğu toplamak için bir define avına çıktılar. Erkekler aramaya çıktı ve her biri 60'ar kabuk getirdi. Eğer kızlar, erkeklerin getirdiği kabuk sayısına eşit bir miktarın yanı sıra erkeklerin getirdiğinden dört kat fazla deniz kabuğu getirdiyse, her bir kız kaçar deniz kabuğu getirmiştir?",
+      "answer": "300",
+      "model_prediction": "96 kabuk."
+    },
+    {
+      "question": "Bir şeker makinesinde, mavi sakız toplarının sayısının dört katından 22 fazla pembe sakız topu vardır. Eğer 12 mavi sakız topu varsa, kaç tane pembe sakız topu vardır?",
+      "answer": "70",
+      "model_prediction": "250."
+    },
+    {
+      "question": "Avery tatil yemeği için 3 parçalık bir yemek takımı (akşam yemeği ve salata tabağı ile bir kase) almalı. Akşam yemeği için 12 kişiyi ağırlayacak. Eğer akşam yemeği tabakları tanesi 6.00 dolar ve kaseler tanesi 5.00 dolar ve salata tabakları 4.00 dolar ise, yemek takımları için toplamda ne kadar harcayacak?",
+      "answer": "180",
+      "model_prediction": "270.00 dolar."
+    },
+    {
+      "question": "Digimon'un 20. yıl dönümüydü. Çıktığında John, Jim'in iki katı yaşındaydı. Eğer John şimdi 28 yaşındaysa, Jim kaç yaşında?",
+      "answer": "24",
+      "model_prediction": "14"
+    },
+    {
+      "question": "Carlos ve Benji sahilde. Carlos saat başına 30 dolar karşılığında bir kano kiralıyor ve Benji saat başına 18 dolar karşılığında bir muz botu kiralıyor. Eğer Carlos botu 3 saat kullanırsa ve Benji salı 5 saat kullanırsa, kiraladıkları için toplamda ne kadar ödeyecekler?",
+      "answer": "180",
+      "model_prediction": "231.0."
+    },
+    {
+      "question": "James mağazaya yürümeye karar verdi. Oraya yarı yolda varınca evde bir şeyi unuttuğunu fark etti ve geri yürümek zorunda kaldı. Eğer evi mağazadan 4 mil uzakta ise ve saatte 4 mil yürüyorsa mağazaya varması ne kadar sürdü?",
+      "answer": "2",
+      "model_prediction": "2 saat."
+    },
+    {
+      "question": "Nisan ayı ve Bayan Rylan çiftliğinde mevsim için farklı türde sebzeler ekmekle meşgul olmuştur. Ekmek için 20 paket domates tohumu ve 80 paket kereviz tohumu satın almıştır. Bir paket domates tohumunun maliyeti 40 dolar ve bir paket kereviz tohumunun maliyeti 30 dolar ise, tohumları satın almak için ne kadar para harcamıştır?",
+      "answer": "3200",
+      "model_prediction": "6400 dolar."
+    },
+    {
+      "question": "Shannon sıcak kahve demleyip içine buz küpleri ekleyerek kendine buzlu kahve yapar. Her buz küpü kahveyi 13 derece soğutur ama kahveyi 12 mililitre daha zayıflatır. Eklenen herhangi bir sıvı da kahveyi zayıflatır. Shannon'ın kahvesi 65 derece soğutulduğunda ve içine 15 mililitre krema eklendiğinde kahve kaç mililitre daha zayıf olur?",
+      "answer": "75",
+      "model_prediction": "23.5 mililitre."
+    },
+    {
+      "question": "Sofie, Anne ve Fawn'ın toplamda 85 kitabı var. Eğer Sofie'nin Anne'den 25 fazla kitabı varsa ve Anne'nin Fawn'dan 12 eksik kitabı varsa, Fawn'ın kaç kitabı vardır?",
+      "answer": "28",
+      "model_prediction": "31."
+    },
+    {
+      "question": "Jaime, şu anda 100 kişiyi istihdam eden bir şirkette bilgisayar programcısıdır. Kıdemli programcılar, junior programcılardan ayda 400 dolar daha fazla maaş almaktadır. Eğer Junior programcıların sayısı, toplam çalışan sayısının 2/5'i ise ve her birine aylık 2000 dolar ödeniyorsa, şirketin tüm programcılara her ay ödediği toplam para miktarını hesaplayın.",
+      "answer": "224000",
+      "model_prediction": "80000 dolar."
+    },
+    {
+      "question": "Ford'un bir bahçesi var ve her hafta 40 gül yetiştiriyor. Yerel çiçekçilere gül sağlıyor. İlk çiçekçi haftada 20 gül, ikinci çiçekçi 15 gül ve üçüncü çiçekçi haftada 30 gül sipariş ediyor. Ford, her ay tüm çiçekçilere gül sağlamak için kaç gül eksik?",
+      "answer": "100",
+      "model_prediction": "25"
+    },
+    {
+      "question": "Rani spor arabalarına takıntılı. Şimdiye kadar yapılmış en hızlı arabaların ne kadar hızlı gidebileceğini merak ediyor ve araştırıyor. Öğrendiğine göre en hızlı araba, ikinci en hızlı arabadan 1.25 kat daha hızlıymış. İkinci en hızlı araba, ortalama bir arabadan 5 kat daha hızlıymış. Ortalama bir araba saatte 120 Mil gidebiliyor. En hızlı araba ne kadar hızlı gidiyor?",
+      "answer": "750",
+      "model_prediction": "300 Mil/saat."
+    },
+    {
+      "question": "Bir alanda 50 geyik var. Bunların %50'si erkek geyik. Erkek geyiklerin %20'si 8 dişli. Kaç tane 8 dişli erkek geyik var?",
+      "answer": "5",
+      "model_prediction": "5"
+    },
+    {
+      "question": "18 dolar 3 erkek çocuk arasında paylaştırılıyor. En büyük olanı kendi payına 5 dolar ekledi ve ertesi gün 10 dolar daha ekledi. Daha sonra biraz paraya ihtiyaç duydu ve şimdiye kadar olan toplamından 8 dolar harcadı. Biraz daha biriktirdikten sonra, 8 dolar harcadıktan sonra kalan miktarı üçe katlayabildi. Şimdi ne kadar parası var?",
+      "answer": "39",
+      "model_prediction": "72.0."
+    },
+    {
+      "question": "Pazartesi günü 2 inç yağmur yağdı ve Salı günü Pazartesi günkünün toplamının iki katından 1 inç daha fazla yağması bekleniyor. Salı günü kaç inç yağmur yağacak?",
+      "answer": "5",
+      "model_prediction": "7 inç."
+    },
+    {
+      "question": "Ella, 3 saatlik köpek gezdirme işi için 33 dolar kazandı. Aynı oranda köpek gezdirmeye devam ederse, 12 saat sonunda ne kadar kazanır?",
+      "answer": "132",
+      "model_prediction": "1320"
+    },
+    {
+      "question": "Lorie saat başına 10 dolar kazanıyor. Karen, Lorie'nin kazancının iki katını kazanıyor. Karen günde 3 saat çalışırsa iki günde ne kadar kazanır?",
+      "answer": "120",
+      "model_prediction": "480."
+    },
+    {
+      "question": "Carl, Sean'ın dört katı kadar misketi var ve Sean'ın misket sayısı Cal'ınki kadarının yarısı kadar. Eğer Sean'ın 56 misketi varsa, Carl ve Cal'ın toplamda kaç misketi vardır?",
+      "answer": "336",
+      "model_prediction": "280)"
+    },
+    {
+      "question": "Partiden kalan 10 quart çay var. Dört öğrenci her biri 1.5 quart çay içti ve 16 öğrenci her biri 2 quart çay içti. Partinin başında kaç galon çay vardı?",
+      "answer": "12",
+      "model_prediction": "17.5 galon."
+    }
+  ]
+}
